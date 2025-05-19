@@ -1,73 +1,73 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Naledi-Drawings/index.html",
+    "href": "Naledi-Drawings/index.html",
+    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
     "section": "",
-    "text": "This website is my creative space—a place where I bring together my projects, passions, and curiosity. From interactive learning modules to visual storytelling, each piece here reflects my interest in making complex ideas more accessible and engaging. Whether I’m exploring science through design, building digital tools, or experimenting with new platforms, this site is my way of sharing what I’m learning and creating along the way."
+    "text": "This project showcases my original scientific ink illustrations of ancient tools, sculpture fragments, and Homo naledi mandibles. Created as part of my coursework in Biomedical Communications and Technology, these drawings combine scientific accuracy with a visual storytelling approach to support learning in anthropology, anatomy, and archaeology.\nEach piece is drawn by hand and annotated to highlight key anatomical and structural features — such as tooth morphology, tool shapes, and proportional measurements.\n\n\n\nThis detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.\n\n\n\nThe mandible (lower jawbone) of Homo naledi provides crucial insights into the species’ dietary habits and evolutionary relationships. Notably, the molar cusp patterns reflect adaptations for processing a diverse diet that likely included tough plant materials and possibly meat.\nThe mandible’s robust form and proportional measurements suggest a combination of primitive and derived traits, positioning Homo naledi as a unique species with a mosaic of characteristics bridging early hominins and modern humans. Understanding these anatomical details helps anthropologists trace the development of tool use, speech, and social behaviors in early human ancestors.\n\n\n\n\n\nTwo early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n\n\n\nTool 1 – Ink Drawing\n\n\nTool 1 – Hand-illustrated obsidian flake with flake scars.\n\n\n\n\nTool 2 – Ink Drawing\n\n\nTool 2 – Bilaterally flaked core with bifacial edge.\n\n\n\n\nThe stone tools depicted demonstrate early hominins’ advanced knapping skills, where flakes were deliberately removed to create sharp edges for cutting, scraping, and hunting.\nTool 1, an obsidian flake, shows distinct flake scars that reveal intentional shaping, indicating cognitive planning and manual dexterity.\nTool 2, a bifacially flaked core, highlights symmetrical shaping on both sides, improving grip and durability. These tools mark critical technological milestones in human evolution, reflecting the emergence of cultural transmission and adaptability to diverse environments.\n\n\n\n\n\nA series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n\n\n\nFront Facing\n\n\nFront view of symbolic sculpture study.\n\n\n\n\nSide Facing\n\n\nSide profile showing volume and posture details.\n\n\n\n\nThese sculptural fragments represent some of the earliest known symbolic expressions by prehistoric humans. The Venus figurines and cave carvings likely served ritualistic or communicative functions, providing clues about social structures, fertility beliefs, and identity.\nThe volumetric details captured in these studies reveal how ancient artists manipulated form and posture to convey meaning, demonstrating an early cognitive ability for abstract thinking and cultural storytelling.\n\n\n\n\n\n\nUse visual communication to teach anthropological and archaeological concepts\n\nCombine anatomical proportion, measurement, and clarity in scientific illustration\n\nExplore how ancient objects tell stories about early human cognition and culture\n\n\n\n\n\n\nBerger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa."
   },
   {
-    "objectID": "Prototype/index.html",
-    "href": "Prototype/index.html",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "objectID": "Naledi-Drawings/index.html#homo-naledi-mandible-study",
+    "href": "Naledi-Drawings/index.html#homo-naledi-mandible-study",
+    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
     "section": "",
-    "text": "Feline-On-Board (FOB) is a digital design prototype developed for outdoor pet cats. The system is designed to sit on a collar or harness and alert owners when their cat enters the vicinity of their home, making it easier for owners to know when to let their pet inside. The project leverages Bluetooth Low Energy (BLE) technology, with a beacon on the cat and a scanner at home that detects the beacon’s presence."
+    "text": "This detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.\n\n\n\nThe mandible (lower jawbone) of Homo naledi provides crucial insights into the species’ dietary habits and evolutionary relationships. Notably, the molar cusp patterns reflect adaptations for processing a diverse diet that likely included tough plant materials and possibly meat.\nThe mandible’s robust form and proportional measurements suggest a combination of primitive and derived traits, positioning Homo naledi as a unique species with a mosaic of characteristics bridging early hominins and modern humans. Understanding these anatomical details helps anthropologists trace the development of tool use, speech, and social behaviors in early human ancestors."
   },
   {
-    "objectID": "Prototype/index.html#overview",
-    "href": "Prototype/index.html#overview",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "objectID": "Naledi-Drawings/index.html#stone-tool-ink-drawings",
+    "href": "Naledi-Drawings/index.html#stone-tool-ink-drawings",
+    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
     "section": "",
-    "text": "Feline-On-Board (FOB) is a digital design prototype developed for outdoor pet cats. The system is designed to sit on a collar or harness and alert owners when their cat enters the vicinity of their home, making it easier for owners to know when to let their pet inside. The project leverages Bluetooth Low Energy (BLE) technology, with a beacon on the cat and a scanner at home that detects the beacon’s presence."
+    "text": "Two early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n\n\n\nTool 1 – Ink Drawing\n\n\nTool 1 – Hand-illustrated obsidian flake with flake scars.\n\n\n\n\nTool 2 – Ink Drawing\n\n\nTool 2 – Bilaterally flaked core with bifacial edge.\n\n\n\n\nThe stone tools depicted demonstrate early hominins’ advanced knapping skills, where flakes were deliberately removed to create sharp edges for cutting, scraping, and hunting.\nTool 1, an obsidian flake, shows distinct flake scars that reveal intentional shaping, indicating cognitive planning and manual dexterity.\nTool 2, a bifacially flaked core, highlights symmetrical shaping on both sides, improving grip and durability. These tools mark critical technological milestones in human evolution, reflecting the emergence of cultural transmission and adaptability to diverse environments."
   },
   {
-    "objectID": "Prototype/index.html#project-objectives",
-    "href": "Prototype/index.html#project-objectives",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Project Objectives",
-    "text": "Project Objectives\n\nCreate a wearable Bluetooth beacon for a cat’s collar or harness.\nDevelop a home-based scanner to detect the beacon and alert the owner.\nDemonstrate real-time detection with a visual (TFT display) and physical (LED) notification.\nEnsure the design is compact, portable, and minimally disruptive to the cat."
+    "objectID": "Naledi-Drawings/index.html#sculptural-studies-ink-drawing",
+    "href": "Naledi-Drawings/index.html#sculptural-studies-ink-drawing",
+    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
+    "section": "",
+    "text": "A series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n\n\n\nFront Facing\n\n\nFront view of symbolic sculpture study.\n\n\n\n\nSide Facing\n\n\nSide profile showing volume and posture details.\n\n\n\n\nThese sculptural fragments represent some of the earliest known symbolic expressions by prehistoric humans. The Venus figurines and cave carvings likely served ritualistic or communicative functions, providing clues about social structures, fertility beliefs, and identity.\nThe volumetric details captured in these studies reveal how ancient artists manipulated form and posture to convey meaning, demonstrating an early cognitive ability for abstract thinking and cultural storytelling."
   },
   {
-    "objectID": "Prototype/index.html#methodology",
-    "href": "Prototype/index.html#methodology",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Methodology",
-    "text": "Methodology\n\nHardware\n\nCat Beacon:\n\nBoard: Adafruit ESP32-S3 QT Py\n\nPower: Button batteries or portable charger\n\nEnclosure: Custom case lined with silicone for waterproofing\n\nHome Scanner:\n\nBoard: Adafruit ESP32-S3 Feather\n\nPower: 3x AA batteries in a holder (4.5V)\n\nDisplay: TFT display for beacon info\n\nNotification: Red LED for proximity alert\n\n\n\n\nDesign Process\n\nInitial Concept:\n\nBeacon on collar or harness, smartphone as scanner.\n\n\n\n\n Collar Prototype\n\n Harness Prototype\n\n\n\nPrototype Evolution:\n\nSwitched to ESP32 Feather as scanner for greater customization.\nAdded TFT display and LED for clear feedback.\n\nEnclosure Prototyping:\n\nTwo versions: compact (QT Py + button batteries) and larger (Feather + AA batteries).\nSilicone lining for water protection.\n\nPower Solutions:\n\nPortable charger used for beacon due to wiring challenges with batteries."
+    "objectID": "Naledi-Drawings/index.html#goals",
+    "href": "Naledi-Drawings/index.html#goals",
+    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
+    "section": "",
+    "text": "Use visual communication to teach anthropological and archaeological concepts\n\nCombine anatomical proportion, measurement, and clarity in scientific illustration\n\nExplore how ancient objects tell stories about early human cognition and culture"
   },
   {
-    "objectID": "Prototype/index.html#technical-implementation",
-    "href": "Prototype/index.html#technical-implementation",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Technical Implementation",
-    "text": "Technical Implementation\n\nBLE Beacon (QT Py Board)\n\nUses iBeacon protocol with custom device name “Cat_Beacon”.\nBroadcasts unique UUID for identification.\nPowered by portable charger for demonstration reliability."
+    "objectID": "Naledi-Drawings/index.html#references",
+    "href": "Naledi-Drawings/index.html#references",
+    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
+    "section": "",
+    "text": "Berger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa."
   },
   {
-    "objectID": "Prototype/index.html#demonstration",
-    "href": "Prototype/index.html#demonstration",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Demonstration",
-    "text": "Demonstration\n\nLive Demo:\n\nShowed beacon entering and leaving scanner range.\nTFT displayed “Cat_Beacon” and signal strength.\nRed LED illuminated when cat (beacon) was close.\n\n\n\n\n Close Proximity\n\n Far Proximity\n\n\n\nKey Features:\n\nReal-time updates with a few seconds’ delay.\nPortable charger used for beacon during demo due to battery wiring issues.\nCompact collar prototype displayed for audience."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marta Skira - Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio! I’m a data-driven and creative problem solver with a background in Health Science, Biomedical Communications and Technology, and Visual Studies. I love combining data, design, and storytelling to build engaging digital experiences — whether it’s an e-learning module, a birdwatching data project, or a global air pollution data analysis.\n\n\n\n\nDegree: Honours Bachelor of Science, Health Science (University of Toronto, 2024)\n\nMinors: Biomedical Communications, Technology, and Visual Studies\n\nSkills: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator\n\nFocus Areas: Data, data visualization, e-learning design, urban analytics, and environmental science\n\nCertifications:\n\nPython for Data Analysis – LinkedIn Learning\n\nSQL for Data Analysis – LinkedIn Learning\n\nData Science Foundations – LinkedIn Learning\n\n\n\n\n\n\n\n\nAn interactive learning experience featuring:\n\n3D eye anatomy model\nResearch-based content on 4 major vision impairments\nMultiple-choice and matching quizzes\nFocus on accessibility and comprehension\n\n\n\n\nUsed ArcGIS and population data to:\n\nMap land use and zoning efficiency\nIdentify underutilized areas\nPropose traffic solutions for growing urban zones\n\n\n\n\nAn innovative collar design for animals that:\n\nUses a microcontroller and Bluetooth on a collar or harness\nInteracts with a home-based scanner to alert the owner\nIntegrates real-time notifications using visual and physical notifications\n\n\n\n\nAnalyzed air quality from 7,812 cities using Python:\n\nVisualized PM2.5 and AQI data trends\nIdentified top pollutant contributors\nSuggested targeted interventions for high-risk regions\n\n\n\n\nA visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data.\n\n\n\n\n\n\nEmail: martaskira2@gmail.com\n\nLinkedIn: linkedin.com/in/martaskira\n\nGitHub: github.com/martaskira\n\nThanks for stopping by! Feel free to explore my work and reach out if you’d like to collaborate on data-driven learning experiences or research-focused projects.\n\n© 2025 Marta Skira. Built with ❤️ using Quarto."
   },
   {
-    "objectID": "Prototype/index.html#results-limitations",
-    "href": "Prototype/index.html#results-limitations",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Results & Limitations",
-    "text": "Results & Limitations\n\nSuccesses:\n\nReliable detection within a few meters.\nClear visual and physical notifications.\nCompact, waterproofed design feasible for real-world use.\n\nLimitations:\n\nDetection range limited to a single room (a few meters).\nBattery wiring for beacon was challenging; portable charger used as workaround.\nDelay in detection and LED response (a few seconds).\nInterference from other Bluetooth devices can affect detection."
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Marta Skira - Portfolio",
+    "section": "",
+    "text": "Degree: Honours Bachelor of Science, Health Science (University of Toronto, 2024)\n\nMinors: Biomedical Communications, Technology, and Visual Studies\n\nSkills: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator\n\nFocus Areas: Data, data visualization, e-learning design, urban analytics, and environmental science\n\nCertifications:\n\nPython for Data Analysis – LinkedIn Learning\n\nSQL for Data Analysis – LinkedIn Learning\n\nData Science Foundations – LinkedIn Learning"
   },
   {
-    "objectID": "Prototype/index.html#reflections-lessons-learned",
-    "href": "Prototype/index.html#reflections-lessons-learned",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Reflections & Lessons Learned",
-    "text": "Reflections & Lessons Learned\n\nTutorials on Arduino and Feather board were crucial for rapid prototyping.\nSerial monitor helped debug and verify beacon transmissions.\nThe project was inspired by self-tracking concepts and the idea of using technology for pet care.\nFuture improvements:\n\nIncrease detection range and reduce delay.\nRefine battery integration for true portability.\nFurther miniaturize and waterproof the enclosure."
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Marta Skira - Portfolio",
+    "section": "",
+    "text": "An interactive learning experience featuring:\n\n3D eye anatomy model\nResearch-based content on 4 major vision impairments\nMultiple-choice and matching quizzes\nFocus on accessibility and comprehension\n\n\n\n\nUsed ArcGIS and population data to:\n\nMap land use and zoning efficiency\nIdentify underutilized areas\nPropose traffic solutions for growing urban zones\n\n\n\n\nAn innovative collar design for animals that:\n\nUses a microcontroller and Bluetooth on a collar or harness\nInteracts with a home-based scanner to alert the owner\nIntegrates real-time notifications using visual and physical notifications\n\n\n\n\nAnalyzed air quality from 7,812 cities using Python:\n\nVisualized PM2.5 and AQI data trends\nIdentified top pollutant contributors\nSuggested targeted interventions for high-risk regions\n\n\n\n\nA visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data."
   },
   {
-    "objectID": "Prototype/index.html#conclusion",
-    "href": "Prototype/index.html#conclusion",
-    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
-    "section": "Conclusion",
-    "text": "Conclusion\nFeline-On-Board demonstrates how physical computing and IoT can be applied to everyday challenges, such as pet monitoring. The project successfully integrates hardware, firmware, and user feedback to create a functional prototype that can be further developed for real-world use.\n\n*For more technical details, see the full code and design files on:\n\nBLE Beacon Code (BLE_Server.ino)\nBluetooth Scanner Code (Scanner_TFT_Display.ino)"
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Marta Skira - Portfolio",
+    "section": "",
+    "text": "Email: martaskira2@gmail.com\n\nLinkedIn: linkedin.com/in/martaskira\n\nGitHub: github.com/martaskira\n\nThanks for stopping by! Feel free to explore my work and reach out if you’d like to collaborate on data-driven learning experiences or research-focused projects.\n\n© 2025 Marta Skira. Built with ❤️ using Quarto."
   },
   {
     "objectID": "ArcGIS/index.html",
@@ -109,7 +109,7 @@
     "href": "ArcGIS/index.html#visualizing-the-data",
     "title": "Urban Planning and Land Use Analysis Using GIS",
     "section": "Visualizing the Data",
-    "text": "Visualizing the Data\n\nPopulation Density Heatmap\nHere is a heatmap showing population density across Toronto, highlighting areas where urban development should be prioritized."
+    "text": "Visualizing the Data\n\nPopulation Density Heatmap\nHere is a heatmap showing population density across Toronto, highlighting areas where urban development should be prioritized.\n\n\n/Users/user/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn("
   },
   {
     "objectID": "ArcGIS/index.html#traffic-congestion-reduction",
@@ -138,34 +138,6 @@
     "title": "Urban Planning and Land Use Analysis Using GIS",
     "section": "Conclusion",
     "text": "Conclusion\nThis project demonstrates how data-driven analysis and GIS tools can significantly contribute to urban planning and land use optimization. By focusing on underutilized land, enhancing transportation networks, and forecasting future needs, we can make more informed decisions that will improve Toronto’s infrastructure and the quality of life for its residents."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "Welcome to my portfolio! I’m a data-driven and creative problem solver with a background in Health Science, Biomedical Communications and Technology, and Visual Studies. I love combining data, design, and storytelling to build engaging digital experiences — whether it’s an e-learning module, a birdwatching data project, or a global air pollution data analysis.\n\n\n\n\nDegree: Honours Bachelor of Science, Health Science (University of Toronto, 2024)\n\nMinors: Biomedical Communications, Technology, and Visual Studies\n\nSkills: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator\n\nFocus Areas: Data, data visualization, e-learning design, urban analytics, and environmental science\n\nCertifications:\n\nPython for Data Analysis – LinkedIn Learning\n\nSQL for Data Analysis – LinkedIn Learning\n\nData Science Foundations – LinkedIn Learning\n\n\n\n\n\n\n\n\nAn interactive learning experience featuring:\n\n3D eye anatomy model\nResearch-based content on 4 major vision impairments\nMultiple-choice and matching quizzes\nFocus on accessibility and comprehension\n\n\n\n\nUsed ArcGIS and population data to:\n\nMap land use and zoning efficiency\nIdentify underutilized areas\nPropose traffic solutions for growing urban zones\n\n\n\n\nAn innovative collar design for animals that:\n\nUses a microcontroller and Bluetooth on a collar or harness\nInteracts with a home-based scanner to alert the owner\nIntegrates real-time notifications using visual and physical notifications\n\n\n\n\nAnalyzed air quality from 7,812 cities using Python:\n\nVisualized PM2.5 and AQI data trends\nIdentified top pollutant contributors\nSuggested targeted interventions for high-risk regions\n\n\n\n\nA visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data.\n\n\n\n\n\n\nEmail: martaskira2@gmail.com\n\nLinkedIn: linkedin.com/in/martaskira\n\nGitHub: github.com/martaskira\n\nThanks for stopping by! Feel free to explore my work and reach out if you’d like to collaborate on data-driven learning experiences or research-focused projects.\n\n© 2025 Marta Skira. Built with ❤️ using Quarto."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "Degree: Honours Bachelor of Science, Health Science (University of Toronto, 2024)\n\nMinors: Biomedical Communications, Technology, and Visual Studies\n\nSkills: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator\n\nFocus Areas: Data, data visualization, e-learning design, urban analytics, and environmental science\n\nCertifications:\n\nPython for Data Analysis – LinkedIn Learning\n\nSQL for Data Analysis – LinkedIn Learning\n\nData Science Foundations – LinkedIn Learning"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "An interactive learning experience featuring:\n\n3D eye anatomy model\nResearch-based content on 4 major vision impairments\nMultiple-choice and matching quizzes\nFocus on accessibility and comprehension\n\n\n\n\nUsed ArcGIS and population data to:\n\nMap land use and zoning efficiency\nIdentify underutilized areas\nPropose traffic solutions for growing urban zones\n\n\n\n\nAn innovative collar design for animals that:\n\nUses a microcontroller and Bluetooth on a collar or harness\nInteracts with a home-based scanner to alert the owner\nIntegrates real-time notifications using visual and physical notifications\n\n\n\n\nAnalyzed air quality from 7,812 cities using Python:\n\nVisualized PM2.5 and AQI data trends\nIdentified top pollutant contributors\nSuggested targeted interventions for high-risk regions\n\n\n\n\nA visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data."
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "Email: martaskira2@gmail.com\n\nLinkedIn: linkedin.com/in/martaskira\n\nGitHub: github.com/martaskira\n\nThanks for stopping by! Feel free to explore my work and reach out if you’d like to collaborate on data-driven learning experiences or research-focused projects.\n\n© 2025 Marta Skira. Built with ❤️ using Quarto."
   },
   {
     "objectID": "vision-module/index.html",
@@ -252,129 +224,73 @@
     "text": "📚 Sources\n\nAmerican Optometric Association\n\nKidsHealth - Visual Impairment\n\nNational Eye Institute - How Eyes Work\n\nUM Kellogg Eye Center - Refractive Errors\n\nUM Kellogg Eye Center - AMD\n\nUM Kellogg Eye Center - Glaucoma\n\nUM Kellogg Eye Center - Cataract\n\nLetsEnvision - Challenges of Blind Individuals\n\n🔗 Return to Home Page"
   },
   {
-    "objectID": "Naledi Drawings/index.html",
-    "href": "Naledi Drawings/index.html",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
+    "objectID": "Prototype/index.html",
+    "href": "Prototype/index.html",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
     "section": "",
-    "text": "This project showcases my original scientific ink illustrations of ancient tools, sculpture fragments, and Homo naledi mandibles. Created as part of my coursework in Biomedical Communications and Technology, these drawings combine scientific accuracy with a visual storytelling approach to support learning in anthropology, anatomy, and archaeology.\nEach piece is drawn by hand and annotated to highlight key anatomical and structural features — such as tooth morphology, tool shapes, and proportional measurements.\n\n\n\nThis detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.\n\n\n\n\n\nTwo early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n\n\n\nFront Facing\n\n\n\n\n\n\nSide Facing\n\n\n\n\n\n\n\n\n\nUse visual communication to teach anthropological and archaeological concepts\nCombine anatomical proportion, measurement, and clarity in scientific illustration\nExplore how ancient objects tell stories about early human cognition and culture\n\n\n\n\n\n\nBerger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa. eLife, 4, e09560.\nLecture materials from HSC404: Visualizing Health Science (UofT)"
+    "text": "Feline-On-Board (FOB) is a digital design prototype developed for outdoor pet cats. The system is designed to sit on a collar or harness and alert owners when their cat enters the vicinity of their home, making it easier for owners to know when to let their pet inside. The project leverages Bluetooth Low Energy (BLE) technology, with a beacon on the cat and a scanner at home that detects the beacon’s presence."
   },
   {
-    "objectID": "Naledi Drawings/index.html#homo-naledi-mandible-study",
-    "href": "Naledi Drawings/index.html#homo-naledi-mandible-study",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
+    "objectID": "Prototype/index.html#overview",
+    "href": "Prototype/index.html#overview",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
     "section": "",
-    "text": "This detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife."
+    "text": "Feline-On-Board (FOB) is a digital design prototype developed for outdoor pet cats. The system is designed to sit on a collar or harness and alert owners when their cat enters the vicinity of their home, making it easier for owners to know when to let their pet inside. The project leverages Bluetooth Low Energy (BLE) technology, with a beacon on the cat and a scanner at home that detects the beacon’s presence."
   },
   {
-    "objectID": "Naledi Drawings/index.html#stone-tool-ink-drawings",
-    "href": "Naledi Drawings/index.html#stone-tool-ink-drawings",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Two early tool illustrations highlighting flaking patterns and inferred grip/strike zones."
+    "objectID": "Prototype/index.html#project-objectives",
+    "href": "Prototype/index.html#project-objectives",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Project Objectives",
+    "text": "Project Objectives\n\nCreate a wearable Bluetooth beacon for a cat’s collar or harness.\nDevelop a home-based scanner to detect the beacon and alert the owner.\nDemonstrate real-time detection with a visual (TFT display) and physical (LED) notification.\nEnsure the design is compact, portable, and minimally disruptive to the cat."
   },
   {
-    "objectID": "Naledi Drawings/index.html#sculptural-studies-ink-drawing",
-    "href": "Naledi Drawings/index.html#sculptural-studies-ink-drawing",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "A series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n\n\n\nFront Facing\n\n\n\n\n\n\nSide Facing"
+    "objectID": "Prototype/index.html#methodology",
+    "href": "Prototype/index.html#methodology",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Methodology",
+    "text": "Methodology\n\nHardware\n\nCat Beacon:\n\nBoard: Adafruit ESP32-S3 QT Py\n\nPower: Button batteries or portable charger\n\nEnclosure: Custom case lined with silicone for waterproofing\n\nHome Scanner:\n\nBoard: Adafruit ESP32-S3 Feather\n\nPower: 3x AA batteries in a holder (4.5V)\n\nDisplay: TFT display for beacon info\n\nNotification: Red LED for proximity alert\n\n\n\n\nDesign Process\n\nInitial Concept:\n\nBeacon on collar or harness, smartphone as scanner.\n\n\n\n\n Collar Prototype\n\n Harness Prototype\n\n\n\nPrototype Evolution:\n\nSwitched to ESP32 Feather as scanner for greater customization.\nAdded TFT display and LED for clear feedback.\n\nEnclosure Prototyping:\n\nTwo versions: compact (QT Py + button batteries) and larger (Feather + AA batteries).\nSilicone lining for water protection.\n\nPower Solutions:\n\nPortable charger used for beacon due to wiring challenges with batteries."
   },
   {
-    "objectID": "Naledi Drawings/index.html#goals",
-    "href": "Naledi Drawings/index.html#goals",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Use visual communication to teach anthropological and archaeological concepts\nCombine anatomical proportion, measurement, and clarity in scientific illustration\nExplore how ancient objects tell stories about early human cognition and culture"
+    "objectID": "Prototype/index.html#technical-implementation",
+    "href": "Prototype/index.html#technical-implementation",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Technical Implementation",
+    "text": "Technical Implementation\n\nBLE Beacon (QT Py Board)\n\nUses iBeacon protocol with custom device name “Cat_Beacon”.\nBroadcasts unique UUID for identification.\nPowered by portable charger for demonstration reliability."
   },
   {
-    "objectID": "Naledi Drawings/index.html#references",
-    "href": "Naledi Drawings/index.html#references",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Berger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa. eLife, 4, e09560.\nLecture materials from HSC404: Visualizing Health Science (UofT)"
+    "objectID": "Prototype/index.html#demonstration",
+    "href": "Prototype/index.html#demonstration",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Demonstration",
+    "text": "Demonstration\n\nLive Demo:\n\nShowed beacon entering and leaving scanner range.\nTFT displayed “Cat_Beacon” and signal strength.\nRed LED illuminated when cat (beacon) was close.\n\n\n\n\n Close Proximity\n\n Far Proximity\n\n\n\nKey Features:\n\nReal-time updates with a few seconds’ delay.\nPortable charger used for beacon during demo due to battery wiring issues.\nCompact collar prototype displayed for audience."
   },
   {
-    "objectID": "Naledi-Drawings/index.html",
-    "href": "Naledi-Drawings/index.html",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "This project showcases my original scientific ink illustrations of ancient tools, sculpture fragments, and Homo naledi mandibles. Created as part of my coursework in Biomedical Communications and Technology, these drawings combine scientific accuracy with a visual storytelling approach to support learning in anthropology, anatomy, and archaeology.\nEach piece is drawn by hand and annotated to highlight key anatomical and structural features — such as tooth morphology, tool shapes, and proportional measurements.\n\n\n\nThis detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.\n\n\n\nThe mandible (lower jawbone) of Homo naledi provides crucial insights into the species’ dietary habits and evolutionary relationships. Notably, the molar cusp patterns reflect adaptations for processing a diverse diet that likely included tough plant materials and possibly meat.\nThe mandible’s robust form and proportional measurements suggest a combination of primitive and derived traits, positioning Homo naledi as a unique species with a mosaic of characteristics bridging early hominins and modern humans. Understanding these anatomical details helps anthropologists trace the development of tool use, speech, and social behaviors in early human ancestors.\n\n\n\n\n\nTwo early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n\n\n\nTool 1 – Ink Drawing\n\n\nTool 1 – Hand-illustrated obsidian flake with flake scars.\n\n\n\n\nTool 2 – Ink Drawing\n\n\nTool 2 – Bilaterally flaked core with bifacial edge.\n\n\n\n\nThe stone tools depicted demonstrate early hominins’ advanced knapping skills, where flakes were deliberately removed to create sharp edges for cutting, scraping, and hunting.\nTool 1, an obsidian flake, shows distinct flake scars that reveal intentional shaping, indicating cognitive planning and manual dexterity.\nTool 2, a bifacially flaked core, highlights symmetrical shaping on both sides, improving grip and durability. These tools mark critical technological milestones in human evolution, reflecting the emergence of cultural transmission and adaptability to diverse environments.\n\n\n\n\n\nA series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n\n\n\nFront Facing\n\n\nFront view of symbolic sculpture study.\n\n\n\n\nSide Facing\n\n\nSide profile showing volume and posture details.\n\n\n\n\nThese sculptural fragments represent some of the earliest known symbolic expressions by prehistoric humans. The Venus figurines and cave carvings likely served ritualistic or communicative functions, providing clues about social structures, fertility beliefs, and identity.\nThe volumetric details captured in these studies reveal how ancient artists manipulated form and posture to convey meaning, demonstrating an early cognitive ability for abstract thinking and cultural storytelling.\n\n\n\n\n\n\nUse visual communication to teach anthropological and archaeological concepts\n\nCombine anatomical proportion, measurement, and clarity in scientific illustration\n\nExplore how ancient objects tell stories about early human cognition and culture\n\n\n\n\n\n\nBerger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa."
+    "objectID": "Prototype/index.html#results-limitations",
+    "href": "Prototype/index.html#results-limitations",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Results & Limitations",
+    "text": "Results & Limitations\n\nSuccesses:\n\nReliable detection within a few meters.\nClear visual and physical notifications.\nCompact, waterproofed design feasible for real-world use.\n\nLimitations:\n\nDetection range limited to a single room (a few meters).\nBattery wiring for beacon was challenging; portable charger used as workaround.\nDelay in detection and LED response (a few seconds).\nInterference from other Bluetooth devices can affect detection."
   },
   {
-    "objectID": "Naledi-Drawings/index.html#homo-naledi-mandible-study",
-    "href": "Naledi-Drawings/index.html#homo-naledi-mandible-study",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "This detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.\n\n\n\nThe mandible (lower jawbone) of Homo naledi provides crucial insights into the species’ dietary habits and evolutionary relationships. Notably, the molar cusp patterns reflect adaptations for processing a diverse diet that likely included tough plant materials and possibly meat.\nThe mandible’s robust form and proportional measurements suggest a combination of primitive and derived traits, positioning Homo naledi as a unique species with a mosaic of characteristics bridging early hominins and modern humans. Understanding these anatomical details helps anthropologists trace the development of tool use, speech, and social behaviors in early human ancestors."
+    "objectID": "Prototype/index.html#reflections-lessons-learned",
+    "href": "Prototype/index.html#reflections-lessons-learned",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Reflections & Lessons Learned",
+    "text": "Reflections & Lessons Learned\n\nTutorials on Arduino and Feather board were crucial for rapid prototyping.\nSerial monitor helped debug and verify beacon transmissions.\nThe project was inspired by self-tracking concepts and the idea of using technology for pet care.\nFuture improvements:\n\nIncrease detection range and reduce delay.\nRefine battery integration for true portability.\nFurther miniaturize and waterproof the enclosure."
   },
   {
-    "objectID": "Naledi-Drawings/index.html#stone-tool-ink-drawings",
-    "href": "Naledi-Drawings/index.html#stone-tool-ink-drawings",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Two early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n\n\n\nTool 1 – Ink Drawing\n\n\nTool 1 – Hand-illustrated obsidian flake with flake scars.\n\n\n\n\nTool 2 – Ink Drawing\n\n\nTool 2 – Bilaterally flaked core with bifacial edge.\n\n\n\n\nThe stone tools depicted demonstrate early hominins’ advanced knapping skills, where flakes were deliberately removed to create sharp edges for cutting, scraping, and hunting.\nTool 1, an obsidian flake, shows distinct flake scars that reveal intentional shaping, indicating cognitive planning and manual dexterity.\nTool 2, a bifacially flaked core, highlights symmetrical shaping on both sides, improving grip and durability. These tools mark critical technological milestones in human evolution, reflecting the emergence of cultural transmission and adaptability to diverse environments."
+    "objectID": "Prototype/index.html#conclusion",
+    "href": "Prototype/index.html#conclusion",
+    "title": "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System",
+    "section": "Conclusion",
+    "text": "Conclusion\nFeline-On-Board demonstrates how physical computing and IoT can be applied to everyday challenges, such as pet monitoring. The project successfully integrates hardware, firmware, and user feedback to create a functional prototype that can be further developed for real-world use.\n\n*For more technical details, see the full code and design files on:\n\nBLE Beacon Code (BLE_Server.ino)\nBluetooth Scanner Code (Scanner_TFT_Display.ino)"
   },
   {
-    "objectID": "Naledi-Drawings/index.html#sculptural-studies-ink-drawing",
-    "href": "Naledi-Drawings/index.html#sculptural-studies-ink-drawing",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "A series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n\n\n\nFront Facing\n\n\nFront view of symbolic sculpture study.\n\n\n\n\nSide Facing\n\n\nSide profile showing volume and posture details.\n\n\n\n\nThese sculptural fragments represent some of the earliest known symbolic expressions by prehistoric humans. The Venus figurines and cave carvings likely served ritualistic or communicative functions, providing clues about social structures, fertility beliefs, and identity.\nThe volumetric details captured in these studies reveal how ancient artists manipulated form and posture to convey meaning, demonstrating an early cognitive ability for abstract thinking and cultural storytelling."
-  },
-  {
-    "objectID": "Naledi-Drawings/index.html#goals",
-    "href": "Naledi-Drawings/index.html#goals",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Use visual communication to teach anthropological and archaeological concepts\n\nCombine anatomical proportion, measurement, and clarity in scientific illustration\n\nExplore how ancient objects tell stories about early human cognition and culture"
-  },
-  {
-    "objectID": "Naledi-Drawings/index.html#references",
-    "href": "Naledi-Drawings/index.html#references",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Berger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa."
-  },
-  {
-    "objectID": "Side-Projects/Naledi-Drawings/index.html",
-    "href": "Side-Projects/Naledi-Drawings/index.html",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "This project showcases my original scientific ink illustrations of ancient tools, sculpture fragments, and Homo naledi mandibles. Created as part of my coursework in Biomedical Communications and Technology, these drawings combine scientific accuracy with a visual storytelling approach to support learning in anthropology, anatomy, and archaeology.\nEach piece is drawn by hand and annotated to highlight key anatomical and structural features — such as tooth morphology, tool shapes, and proportional measurements.\n\n\n\nThis detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.\n\n\n\n\n\nTwo early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n Tool 1 – Hand-illustrated obsidian flake with flake scars.\n\n Tool 2 – Bilaterally flaked core with bifacial edge.\n\n\n\n\n\n\nA series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n Front view of symbolic sculpture study.\n\n Side profile showing volume and posture details.\n\n\n\n\n\n\n\nUse visual communication to teach anthropological and archaeological concepts\n\nCombine anatomical proportion, measurement, and clarity in scientific illustration\n\nExplore how ancient objects tell stories about early human cognition and culture\n\n\n\n\n\n\nBerger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa."
-  },
-  {
-    "objectID": "Side-Projects/Naledi-Drawings/index.html#homo-naledi-mandible-study",
-    "href": "Side-Projects/Naledi-Drawings/index.html#homo-naledi-mandible-study",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "This detailed illustration highlights multiple views of the Homo naledi holotype mandible, based on anatomical research from Berger et al. (2015).\n\n\n\nHomo naledi mandible\n\n\n\nOcclusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife."
-  },
-  {
-    "objectID": "Side-Projects/Naledi-Drawings/index.html#stone-tool-ink-drawings",
-    "href": "Side-Projects/Naledi-Drawings/index.html#stone-tool-ink-drawings",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Two early tool illustrations highlighting flaking patterns and inferred grip/strike zones.\n\n\n Tool 1 – Hand-illustrated obsidian flake with flake scars.\n\n Tool 2 – Bilaterally flaked core with bifacial edge."
-  },
-  {
-    "objectID": "Side-Projects/Naledi-Drawings/index.html#sculptural-studies-ink-drawing",
-    "href": "Side-Projects/Naledi-Drawings/index.html#sculptural-studies-ink-drawing",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "A series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.\n\n\n Front view of symbolic sculpture study.\n\n Side profile showing volume and posture details."
-  },
-  {
-    "objectID": "Side-Projects/Naledi-Drawings/index.html#goals",
-    "href": "Side-Projects/Naledi-Drawings/index.html#goals",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Use visual communication to teach anthropological and archaeological concepts\n\nCombine anatomical proportion, measurement, and clarity in scientific illustration\n\nExplore how ancient objects tell stories about early human cognition and culture"
-  },
-  {
-    "objectID": "Side-Projects/Naledi-Drawings/index.html#references",
-    "href": "Side-Projects/Naledi-Drawings/index.html#references",
-    "title": "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy",
-    "section": "",
-    "text": "Berger, L. R., et al. (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa."
+    "text": "This website is my creative space—a place where I bring together my projects, passions, and curiosity. From interactive learning modules to visual storytelling, each piece here reflects my interest in making complex ideas more accessible and engaging. Whether I’m exploring science through design, building digital tools, or experimenting with new platforms, this site is my way of sharing what I’m learning and creating along the way."
   }
 ]
