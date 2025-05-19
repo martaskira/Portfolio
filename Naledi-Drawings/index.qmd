@@ -1,0 +1,137 @@
+---
+title: "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy"
+format: html
+page-layout: full
+---
+
+<style>
+.columns {
+  display: flex !important;
+  align-items: flex-end !important; /* Align all columns' content to bottom */
+  gap: 1rem; /* optional: spacing between columns */
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* ensures image + caption stack bottom-aligned */
+}
+.learning-module {
+  background-color: #f9f9f9;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  margin-top: 1rem;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.learning-module h4 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+</style>
+
+# ✍️ Scientific Drawings of Ancient Artifacts
+
+This project showcases my original scientific ink illustrations of ancient tools, sculpture fragments, and **Homo naledi** mandibles. Created as part of my coursework in **Biomedical Communications and Technology**, these drawings combine scientific accuracy with a visual storytelling approach to support learning in anthropology, anatomy, and archaeology.
+
+Each piece is drawn by hand and annotated to highlight key anatomical and structural features — such as tooth morphology, tool shapes, and proportional measurements.
+
+---
+
+## 🦷 *Homo naledi* Mandible Study
+
+This detailed illustration highlights multiple views of the *Homo naledi* holotype mandible, based on anatomical research from Berger et al. (2015).
+
+![Homo naledi mandible](./images/NalediMandible.png){width=100%}
+
+> *Occlusal, anterior, and lateral views of the mandible with details of molar cusp pattern and measurements. Source: Berger et al. (2015), eLife.*
+
+<div class="learning-module">
+
+#### Learning Module: Anatomy and Significance of the *Homo naledi* Mandible
+
+The mandible (lower jawbone) of *Homo naledi* provides crucial insights into the species' dietary habits and evolutionary relationships. Notably, the molar cusp patterns reflect adaptations for processing a diverse diet that likely included tough plant materials and possibly meat. 
+
+The mandible's robust form and proportional measurements suggest a combination of primitive and derived traits, positioning *Homo naledi* as a unique species with a mosaic of characteristics bridging early hominins and modern humans. Understanding these anatomical details helps anthropologists trace the development of tool use, speech, and social behaviors in early human ancestors.
+
+</div>
+
+---
+
+## 🪓 Stone Tool Ink Drawings
+
+Two early tool illustrations highlighting flaking patterns and inferred grip/strike zones.
+
+:::{.columns}
+
+::: {.column width="50%"}
+![Tool 1 – Ink Drawing](./images/StoneKnife.png){width=300px}
+
+<small>Tool 1 – Hand-illustrated obsidian flake with flake scars.</small>
+:::
+
+::: {.column width="50%"}
+![Tool 2 – Ink Drawing](./images/StoneRock.png){width=100%}
+
+<small>Tool 2 – Bilaterally flaked core with bifacial edge.</small>
+:::
+
+:::
+
+<div class="learning-module">
+
+#### Learning Module: Early Stone Tools and Technological Innovation
+
+The stone tools depicted demonstrate early hominins' advanced knapping skills, where flakes were deliberately removed to create sharp edges for cutting, scraping, and hunting. 
+
+Tool 1, an obsidian flake, shows distinct flake scars that reveal intentional shaping, indicating cognitive planning and manual dexterity.
+
+Tool 2, a bifacially flaked core, highlights symmetrical shaping on both sides, improving grip and durability. These tools mark critical technological milestones in human evolution, reflecting the emergence of cultural transmission and adaptability to diverse environments.
+
+</div>
+
+---
+
+## 🗿 Sculptural Studies – Ink Drawing
+
+A series of ink and pencil studies on early symbolic objects, including Venus figurines and cave carvings.
+
+:::{.columns}
+
+::: {.column width="50%"}
+![Front Facing](./images/Statuefront.png){width=362px}
+
+<small>Front view of symbolic sculpture study.</small>
+:::
+
+::: {.column width="50%"}
+![Side Facing](./images/Statueside.png){width=300px}
+
+<small>Side profile showing volume and posture details.</small>
+:::
+
+:::
+
+<div class="learning-module">
+
+#### Learning Module: Symbolism and Cultural Expression in Early Sculpture
+
+These sculptural fragments represent some of the earliest known symbolic expressions by prehistoric humans. The Venus figurines and cave carvings likely served ritualistic or communicative functions, providing clues about social structures, fertility beliefs, and identity.
+
+The volumetric details captured in these studies reveal how ancient artists manipulated form and posture to convey meaning, demonstrating an early cognitive ability for abstract thinking and cultural storytelling.
+
+</div>
+
+---
+
+## 🎯 Goals
+
+- Use visual communication to teach anthropological and archaeological concepts  
+- Combine anatomical proportion, measurement, and clarity in scientific illustration  
+- Explore how ancient objects tell stories about early human cognition and culture  
+
+---
+
+## 📚 References
+
+- Berger, L. R., et al. (2015). *Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa.*

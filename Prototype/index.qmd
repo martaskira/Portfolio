@@ -1,0 +1,147 @@
+---
+title: "Feline-On-Board (FOB): A Bluetooth Cat Proximity Alert System"
+author: "Marta Skira"
+date: 2023-11-28
+categories: [Physical Computing, IoT, Bluetooth]
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+## Overview
+
+Feline-On-Board (FOB) is a digital design prototype developed for outdoor pet cats. The system is designed to sit on a collar or harness and alert owners when their cat enters the vicinity of their home, making it easier for owners to know when to let their pet inside. The project leverages Bluetooth Low Energy (BLE) technology, with a beacon on the cat and a scanner at home that detects the beacon’s presence.
+
+---
+
+## Project Objectives
+
+- Create a wearable Bluetooth beacon for a cat’s collar or harness.
+- Develop a home-based scanner to detect the beacon and alert the owner.
+- Demonstrate real-time detection with a visual (TFT display) and physical (LED) notification.
+- Ensure the design is compact, portable, and minimally disruptive to the cat.
+
+---
+
+## Methodology
+
+### Hardware
+
+- **Cat Beacon:**  
+  - **Board:** Adafruit ESP32-S3 QT Py  
+  - **Power:** Button batteries or portable charger  
+  - **Enclosure:** Custom case lined with silicone for waterproofing
+
+- **Home Scanner:**  
+  - **Board:** Adafruit ESP32-S3 Feather  
+  - **Power:** 3x AA batteries in a holder (4.5V)  
+  - **Display:** TFT display for beacon info  
+  - **Notification:** Red LED for proximity alert
+
+### Design Process
+
+1. **Initial Concept:**  
+   - Beacon on collar or harness, smartphone as scanner.
+
+:::{.columns}
+
+::: {.column width="50%"}
+![Collar Prototype](images/Collar_prototype.jpg){width=100%}
+<br><small style="display:block; text-align: center;">Collar Prototype</small>
+:::
+
+::: {.column width="50%"}
+![Harness Prototype](images/Harness_Prototype.jpg){width=100%}
+<br><small style="display:block; text-align: center;">Harness Prototype</small>
+:::
+
+:::
+
+2. **Prototype Evolution:**  
+   - Switched to ESP32 Feather as scanner for greater customization.
+   - Added TFT display and LED for clear feedback.
+3. **Enclosure Prototyping:**  
+   - Two versions: compact (QT Py + button batteries) and larger (Feather + AA batteries).
+   - Silicone lining for water protection.
+4. **Power Solutions:**  
+   - Portable charger used for beacon due to wiring challenges with batteries.
+
+---
+
+## Technical Implementation
+
+### BLE Beacon (QT Py Board)
+
+- Uses iBeacon protocol with custom device name "Cat_Beacon".
+- Broadcasts unique UUID for identification.
+- Powered by portable charger for demonstration reliability.
+
+---
+
+## Demonstration
+
+- **Live Demo:**  
+  - Showed beacon entering and leaving scanner range.
+  - TFT displayed "Cat_Beacon" and signal strength.
+  - Red LED illuminated when cat (beacon) was close.
+
+:::{.columns}
+
+::: {.column width="50%"}
+![Close Proximity](images/Close_proximity.jpg){width=100%}
+<br><small style="display:block; text-align: center;">Close Proximity</small>
+:::
+
+::: {.column width="50%"}
+![Far Proximity](images/Far_Proximity.jpg){width=100%}
+<br><small style="display:block; text-align: center;">Far Proximity</small>
+:::
+
+:::
+
+- **Key Features:**  
+  - Real-time updates with a few seconds’ delay.
+  - Portable charger used for beacon during demo due to battery wiring issues.
+  - Compact collar prototype displayed for audience.
+
+---
+
+## Results & Limitations
+
+- **Successes:**  
+  - Reliable detection within a few meters.
+  - Clear visual and physical notifications.
+  - Compact, waterproofed design feasible for real-world use.
+
+- **Limitations:**  
+  - Detection range limited to a single room (a few meters).
+  - Battery wiring for beacon was challenging; portable charger used as workaround.
+  - Delay in detection and LED response (a few seconds).
+  - Interference from other Bluetooth devices can affect detection.
+
+---
+
+## Reflections & Lessons Learned
+
+- Tutorials on Arduino and Feather board were crucial for rapid prototyping.
+- Serial monitor helped debug and verify beacon transmissions.
+- The project was inspired by self-tracking concepts and the idea of using technology for pet care.
+- Future improvements:
+  - Increase detection range and reduce delay.
+  - Refine battery integration for true portability.
+  - Further miniaturize and waterproof the enclosure.
+
+---
+
+## Conclusion
+
+Feline-On-Board demonstrates how physical computing and IoT can be applied to everyday challenges, such as pet monitoring. The project successfully integrates hardware, firmware, and user feedback to create a functional prototype that can be further developed for real-world use.
+
+---
+
+*For more technical details, see the full code and design files on:
+
+- [BLE Beacon Code (BLE_Server.ino)](https://github.com/martaskira/Feline-on-board/blob/main/BLE_Server.ino)
+
+- [Bluetooth Scanner Code (Scanner_TFT_Display.ino)](https://github.com/martaskira/Feline-on-board/blob/main/Scanner_TFT_Display.ino)

@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/martaskira
+    - icon: github
+      text: Github
+      href: https://github.com/martaskira
+
+---
+
+This website is my creative space—a place where I bring together my projects, passions, and curiosity. From interactive learning modules to visual storytelling, each piece here reflects my interest in making complex ideas more accessible and engaging. Whether I’m exploring science through design, building digital tools, or experimenting with new platforms, this site is my way of sharing what I’m learning and creating along the way.

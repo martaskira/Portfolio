@@ -1,0 +1,264 @@
+---
+title: "Vision Impairments E-Learning Modulem"
+author: "Marta Skira"
+date: 2023-10-15
+categories: [E-Learning, H5P, Blender]
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+This interactive educational module is designed to teach learners about common vision impairments in adults over 40. It was built as part of my digital learning design work and combines 3D visuals, scientific research, and memory-boosting quizzes.
+
+## 🧠 Project Overview
+
+### Topic: Common vision impairments in adults
+
+### Features:
+- Interactive eye anatomy model
+- Descriptions of 4 major vision impairments
+- Risk factors, corrections, and treatment options
+- Multiple-choice and matching quizzes
+- Accessibility-focused design
+
+### Tools Used:
+- H5P
+- Blender (for 3D model)
+- HTML
+- Quarto
+
+The module includes:
+
+- Clickable eye diagram for exploring parts of the eye
+
+- 3D embedded model to visualize how vision works
+
+- Quizzes to reinforce learning and improve recall
+
+---
+
+## 🎯 Learning Outcomes
+
+By the end of this module, viewers will be able to:
+
+- Identify parts of the eye and understand the process behind vision.
+- Understand what vision impairments are and identify the most common ones in adults.
+- Visualize how vision impairments affect perception compared to normal vision.
+- Identify common risk factors for each impairment.
+- Understand ways to reduce the chances of developing impairments.
+- Recognize available treatment options.
+
+---
+
+## Let's take a look at what the eye looks like inside!
+
+Click and drag around the eye to see the difference components!
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Anatomy_of_the_eye2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="840" height="680" src="https://sketchfab.com/models/940ab84bfa424acfa4848ad8e91083f8/embed"> </iframe> </div>
+
+## 👁️ What Are Vision Impairments?
+
+Visual impairment is a term for any kind of vision loss, whether it's complete blindness or partial vision loss. Some people are born with visual impairments, while others develop them later in life.  
+(Source: [KidsHealth](https://kidshealth.org/en/teens/visual-impairment.html))
+
+---
+
+## 🧠 How Eyes Work
+
+When light hits the retina in the back of your eye, it’s converted into electrical signals that your optic nerve sends to your brain. Your brain turns these signals into the images you see.  
+(Source: [NEI - How Eyes Work](https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work))
+
+---
+
+## 🔬 Eye Anatomy
+
+<iframe src="https://martaskira.h5p.com/content/1292566323302357738/embed" aria-label="Learn about Eye Anatomy" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
+## 🧪 Quiz: Eye Anatomy & Vision Basics
+
+<iframe src="https://martaskira.h5p.com/content/1292566315107750498/embed" aria-label="🧪 Quiz: Eye Anatomy &amp; Vision Basics" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
+## 🧓 Common Vision Impairments
+
+### 🔹 Blurred Vision (Refractive Errors)
+
+**What is it?** A refractive error means your eye can't bend light properly, leading to blurry vision.  
+- **Types**: Myopia (nearsightedness) and hyperopia (farsightedness)  
+
+:::{.columns}
+
+::: {.column width="50%"}
+![Sight with Myopia](images/Algonquinmyopia.png){width=100%}
+<br><small style="display:block; text-align: center;">Sight with Myopia</small>
+:::
+
+::: {.column width="50%"}
+![Sight with Hyperopia](images/Algonquinhyperopia.png){width=100%}
+<br><small style="display:block; text-align: center;">Sight with Hyperopia</small>
+:::
+
+:::
+
+- **Risk Factors**: Age, Genetics  
+- **Corrections**: Glasses, Contact lenses, Refractive surgery (LASIK)  
+(Source: [UM Kellogg Eye Center](https://www.umkelloggeye.org/conditions-treatments/refractive-errors))
+
+---
+
+### 🔹 Age-Related Macular Degeneration (AMD)
+
+**What is it?** Damage to the macula, the part of the retina responsible for sharp central vision.
+
+- **Types**: Dry form and wet form
+
+:::{.columns}
+::: {.column width="100%" .text-center}
+![Sight with AMD](./images/Algonquin1AMD.png){width=60%}
+<br>
+<small>Sight with AMD</small>
+:::
+:::
+
+:::{.columns}
+
+::: {.column width="50%"}
+### 🧪 Dry Form AMD
+
+<iframe src="https://martaskira.h5p.com/content/1292566328051843458/embed" 
+        aria-label="Dry Form AMD" 
+        width="100%" 
+        height="480" 
+        frameborder="0" 
+        allowfullscreen="allowfullscreen" 
+        allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *">
+</iframe>
+:::
+
+::: {.column width="50%"}
+### 💧 Wet Form AMD
+
+<iframe src="https://martaskira.h5p.com/content/1292566328764621598/embed" 
+        aria-label="Wet Form" 
+        width="100%" 
+        height="480" 
+        frameborder="0" 
+        allowfullscreen="allowfullscreen" 
+        allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *">
+</iframe>
+:::
+
+:::
+
+<script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+- **Risk Factors**: Age (50+), Smoking, Family history  
+- **Corrections**: Vitamin supplements, Laser therapy, Injections  
+(Source: [UM Kellogg Eye Center - AMD](https://www.umkelloggeye.org/conditions-treatments/age-related-macular-degeneration))
+
+---
+
+### 🔹 Glaucoma
+
+**What is it?** A group of diseases that damage the eye's optic nerve, often due to high eye pressure.  
+
+- **Types**: Open-angle, Closed-angle 
+
+:::{.columns}
+::: {.column width="100%" .text-center}
+![Sight with glaucoma](./images/Algonquin1glaucoma.png){width=60%}
+<br>
+<small>Sight with glaucoma</small>
+:::
+:::
+
+:::{.columns}
+
+::: {.column width="50%"}
+### 🔒 Close Angle Glaucoma
+
+<iframe src="https://martaskira.h5p.com/content/1292566333652191548/embed" 
+        aria-label="Close angle" 
+        width="100%" 
+        height="480" 
+        frameborder="0" 
+        allowfullscreen="allowfullscreen" 
+        allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *">
+</iframe>
+:::
+
+::: {.column width="50%"}
+### 👁️ Open Angle Glaucoma
+
+<iframe src="https://martaskira.h5p.com/content/1292566332803279898/embed" 
+        aria-label="Glaucoma" 
+        width="100%" 
+        height="480" 
+        frameborder="0" 
+        allowfullscreen="allowfullscreen" 
+        allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *">
+</iframe>
+:::
+
+:::
+
+<script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+- **Risk Factors**: Age, Family history, High eye pressure  
+- **Corrections**: Eye drops, Laser treatment, Surgery  
+(Source: [UM Kellogg Eye Center - Glaucoma](https://www.umkelloggeye.org/conditions-treatments/glaucoma))
+
+---
+
+### 🔹 Cataract
+
+**What is it?** Clouding of the eye’s lens, leading to blurry or dim vision  
+
+:::{.columns}
+::: {.column width="100%" .text-center}
+![Sight with cataract](./images/Algonquin1cataract.png){width=60%}
+<br>
+<small>Sight with cataract</small>
+:::
+:::
+
+- **Risk Factors**: Aging, Diabetes, UV exposure  
+- **Corrections**: Lens replacement surgery  
+(Source: [UM Kellogg Eye Center - Cataract](https://www.umkelloggeye.org/conditions-treatments/cataract))
+
+---
+
+## 🧪 Quiz: Vision Impairments
+
+<iframe src="https://martaskira.h5p.com/content/1292572980540722948/embed" aria-label="Vision Impairments Quiz" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+## 💬 Reflections
+
+Creating this module helped me strengthen my ability to:
+
+- Translate complex scientific topics into accessible language
+
+- Build interactive digital learning tools
+
+- Balance visual communication with pedagogical structure
+
+---
+
+## 📚 Sources
+
+1. [American Optometric Association](https://www.aoa.org/healthy-eyes/eye-health-for-life/adult-vision-19-to-40-years-of-age)  
+2. [KidsHealth - Visual Impairment](https://kidshealth.org/en/teens/visual-impairment.html)  
+3. [National Eye Institute - How Eyes Work](https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work)  
+4. [UM Kellogg Eye Center - Refractive Errors](https://www.umkelloggeye.org/conditions-treatments/refractive-errors)  
+5. [UM Kellogg Eye Center - AMD](https://www.umkelloggeye.org/conditions-treatments/age-related-macular-degeneration)  
+6. [UM Kellogg Eye Center - Glaucoma](https://www.umkelloggeye.org/conditions-treatments/glaucoma)  
+7. [UM Kellogg Eye Center - Cataract](https://www.umkelloggeye.org/conditions-treatments/cataract)  
+8. [LetsEnvision - Challenges of Blind Individuals](https://www.letsenvision.com/blog/challenges-blind-people-face-when-living-life)
+
+[🔗 Return to Home Page](../index.qmd)

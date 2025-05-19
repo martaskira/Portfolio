@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "78ce9d27"
+  },
+  "index.qmd": {
+    "index.html": "7e3f07c9"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "6f2afdf4"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "3eb7008e"
+  },
+  "vision-module/index.qmd": {
+    "index.html": "94938223"
+  },
+  "ArcGIS/index.qmd": {
+    "index.html": "1f084f38"
+  },
+  "Prototype/index.qmd": {
+    "index.html": "a4f69339"
+  },
+  "Naledi Drawings/index.qmd": {
+    "index.html": "81b100be"
+  },
+  "Naledi-Drawings/index.qmd": {
+    "index.html": "70eeab0a"
+  },
+  "Side-Projects/Naledi-Drawings/index.qmd": {
+    "index.html": "7675ea74"
+  }
+}
