@@ -74,14 +74,14 @@
     "href": "ArcGIS/index.html",
     "title": "Urban Planning and Land Use Analysis Using GIS",
     "section": "",
-    "text": "import warnings\nfrom urllib3.exceptions import NotOpenSSLWarning\n\n# Suppress only the NotOpenSSLWarning from urllib3\nwarnings.filterwarnings(\"ignore\", category=NotOpenSSLWarning)\n\n/Users/user/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn("
+    "text": "In 2023, I conducted an urban planning and land use analysis for the City of Toronto using GIS data. The goal of the project was to identify underutilized land zones, optimize transportation corridors, and predict future urban infrastructure needs. This was achieved by integrating multiple datasets, performing spatial analysis using QGIS and Python, and developing actionable recommendations for urban development.\n\n\n\nIdentify underutilized land based on zoning, density, and FAR metrics.\nOptimize transportation corridors by analyzing traffic congestion and predicting future trends.\nForecast future urban infrastructure needs considering population growth and expansion."
   },
   {
     "objectID": "ArcGIS/index.html#project-overview",
     "href": "ArcGIS/index.html#project-overview",
     "title": "Urban Planning and Land Use Analysis Using GIS",
-    "section": "Project Overview",
-    "text": "Project Overview\nIn 2023, I conducted an urban planning and land use analysis for the City of Toronto using GIS data. The goal of the project was to identify underutilized land zones, optimize transportation corridors, and predict future urban infrastructure needs. This was achieved by integrating multiple datasets, performing spatial analysis using QGIS and Python, and developing actionable recommendations for urban development.\n\nKey Project Objectives:\n\nIdentify underutilized land based on zoning, density, and FAR metrics.\nOptimize transportation corridors by analyzing traffic congestion and predicting future trends.\nForecast future urban infrastructure needs considering population growth and expansion."
+    "section": "",
+    "text": "In 2023, I conducted an urban planning and land use analysis for the City of Toronto using GIS data. The goal of the project was to identify underutilized land zones, optimize transportation corridors, and predict future urban infrastructure needs. This was achieved by integrating multiple datasets, performing spatial analysis using QGIS and Python, and developing actionable recommendations for urban development.\n\n\n\nIdentify underutilized land based on zoning, density, and FAR metrics.\nOptimize transportation corridors by analyzing traffic congestion and predicting future trends.\nForecast future urban infrastructure needs considering population growth and expansion."
   },
   {
     "objectID": "ArcGIS/index.html#data-sources",
@@ -109,7 +109,7 @@
     "href": "ArcGIS/index.html#visualizing-the-data",
     "title": "Urban Planning and Land Use Analysis Using GIS",
     "section": "Visualizing the Data",
-    "text": "Visualizing the Data\n\nPopulation Density Heatmap\nHere is a heatmap showing population density across Toronto, highlighting areas where urban development should be prioritized."
+    "text": "Visualizing the Data\n\nPopulation Density Heatmap\nHere is a heatmap showing population density across Toronto, highlighting areas where urban development should be prioritized.\n\n\n/Users/user/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn("
   },
   {
     "objectID": "ArcGIS/index.html#traffic-congestion-reduction",
