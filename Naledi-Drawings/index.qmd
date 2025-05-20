@@ -1,7 +1,12 @@
 ---
 title: "Educational Illustrations: Early Tools, Sculpture & Hominin Anatomy"
-format: html
-page-layout: full
+author: Marta Skira
+date: 2024-04-01
+categories: [Paleoanthropology, Illustration, Digital Rendering]
+format:
+  html:
+    toc: true
+    page-layout: full
 ---
 
 <style>
