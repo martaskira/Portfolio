@@ -3,7 +3,6 @@ project:
 
 output-dir: docs
 
-
 website:
   title: "Portfolio"
   navbar:
@@ -25,7 +24,7 @@ website:
       - text: "Side Projects"
         menu:
         - text: "Ancient Illustrations"
-        - href: Naledi-Drawings/index.qmd
+          href: Naledi-Drawings/index.qmd
 
 format:
   html:
