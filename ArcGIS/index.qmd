@@ -9,6 +9,15 @@ format:
     page-layout: full
 ---
 
+```{python}
+import warnings
+from urllib3.exceptions import NotOpenSSLWarning
+
+# Suppress only the NotOpenSSLWarning from urllib3
+warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
+
+```
+
 ## Project Overview
 In 2023, I conducted an urban planning and land use analysis for the City of Toronto using GIS data. The goal of the project was to identify underutilized land zones, optimize transportation corridors, and predict future urban infrastructure needs. This was achieved by integrating multiple datasets, performing spatial analysis using QGIS and Python, and developing actionable recommendations for urban development.
 

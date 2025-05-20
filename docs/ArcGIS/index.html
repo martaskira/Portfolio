@@ -22,6 +22,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -216,6 +251,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div id="aadc2257" class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> warnings</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> urllib3.exceptions <span class="im">import</span> NotOpenSSLWarning</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Suppress only the NotOpenSSLWarning from urllib3</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>warnings.filterwarnings(<span class="st">"ignore"</span>, category<span class="op">=</span>NotOpenSSLWarning)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>/Users/user/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(</code></pre>
+</div>
+</div>
 <section id="project-overview" class="level2">
 <h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
 <p>In 2023, I conducted an urban planning and land use analysis for the City of Toronto using GIS data. The goal of the project was to identify underutilized land zones, optimize transportation corridors, and predict future urban infrastructure needs. This was achieved by integrating multiple datasets, performing spatial analysis using QGIS and Python, and developing actionable recommendations for urban development.</p>
@@ -282,12 +328,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="population-density-heatmap" class="level3">
 <h3 class="anchored" data-anchor-id="population-density-heatmap"><strong>Population Density Heatmap</strong></h3>
 <p>Here is a heatmap showing population density across Toronto, highlighting areas where urban development should be prioritized.</p>
-<div id="251e9028" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="1">
-<div class="cell-output cell-output-stderr">
-<pre><code>/Users/user/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
-  warnings.warn(</code></pre>
-</div>
-</div>
 <iframe src="population_density_heatmap.html" width="100%" height="500px">
 </iframe>
 </section>
@@ -295,11 +335,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="traffic-congestion-reduction" class="level2">
 <h2 class="anchored" data-anchor-id="traffic-congestion-reduction">Traffic Congestion Reduction</h2>
 <p>This bar chart visualizes the projected reduction in traffic congestion for key transportation corridors after proposed upgrades.</p>
-<div id="3218b867" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="2">
+<div id="378476fb" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="3">
 <div class="cell-output cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="index_files/figure-html/cell-3-output-1.png" width="663" height="470" class="figure-img"></p>
+<p><img src="index_files/figure-html/cell-4-output-1.png" width="663" height="470" class="figure-img"></p>
 <figcaption>Traffic Congestion Reduction After Proposed Upgrades</figcaption>
 </figure>
 </div>
@@ -309,11 +349,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="proposed-land-use-distribution" class="level2">
 <h2 class="anchored" data-anchor-id="proposed-land-use-distribution">Proposed Land Use Distribution</h2>
 <p>The donut chart below illustrates the proposed land-use distribution after optimization. The focus is on creating a balance between residential, commercial, and green spaces.</p>
-<div id="b144714a" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="3">
+<div id="4aa8a196" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="4">
 <div class="cell-output cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="index_files/figure-html/cell-4-output-1.png" width="555" height="411" class="figure-img"></p>
+<p><img src="index_files/figure-html/cell-5-output-1.png" width="555" height="411" class="figure-img"></p>
 <figcaption>Proposed Land Use Distribution After Optimization</figcaption>
 </figure>
 </div>
