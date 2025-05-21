@@ -44,30 +44,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Marta Skira - Portfolio",
+    "title": "Welcome",
     "section": "",
-    "text": "Welcome to my portfolio! I’m a data-driven and creative problem solver with a background in Health Science, Biomedical Communications and Technology, and Visual Studies. I love combining data, design, and storytelling to build engaging digital experiences — whether it’s an e-learning module, a birdwatching data project, or a global air pollution data analysis.\n\n\n\n\nDegree: Honours Bachelor of Science, Health Science (University of Toronto, 2024)\n\nMinors: Biomedical Communications, Technology, and Visual Studies\n\nSkills: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator\n\nFocus Areas: Data, data visualization, e-learning design, urban analytics, and environmental science\n\nCertifications:\n\nPython for Data Analysis – LinkedIn Learning\n\nSQL for Data Analysis – LinkedIn Learning\n\nData Science Foundations – LinkedIn Learning\n\n\n\n\n\n\n\n\nAn interactive learning experience featuring:\n\n3D eye anatomy model\nResearch-based content on 4 major vision impairments\nMultiple-choice and matching quizzes\nFocus on accessibility and comprehension\n\n\n\n\nUsed ArcGIS and population data to:\n\nMap land use and zoning efficiency\nIdentify underutilized areas\nPropose traffic solutions for growing urban zones\n\n\n\n\nAn innovative collar design for animals that:\n\nUses a microcontroller and Bluetooth on a collar or harness\nInteracts with a home-based scanner to alert the owner\nIntegrates real-time notifications using visual and physical notifications\n\n\n\n\nAnalyzed air quality from 7,812 cities using Python:\n\nVisualized PM2.5 and AQI data trends\nIdentified top pollutant contributors\nSuggested targeted interventions for high-risk regions\n\n\n\n\nA visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data.\n\n\n\n\n\n\nEmail: martaskira2@gmail.com\n\nLinkedIn: linkedin.com/in/martaskira\n\nGitHub: github.com/martaskira\n\nThanks for stopping by! Feel free to explore my work and reach out if you’d like to collaborate on data-driven learning experiences or research-focused projects.\n\n© 2025 Marta Skira. Built with ❤️ using Quarto."
+    "text": "Hi, I’m Marta 🌿"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "Degree: Honours Bachelor of Science, Health Science (University of Toronto, 2024)\n\nMinors: Biomedical Communications, Technology, and Visual Studies\n\nSkills: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator\n\nFocus Areas: Data, data visualization, e-learning design, urban analytics, and environmental science\n\nCertifications:\n\nPython for Data Analysis – LinkedIn Learning\n\nSQL for Data Analysis – LinkedIn Learning\n\nData Science Foundations – LinkedIn Learning"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "An interactive learning experience featuring:\n\n3D eye anatomy model\nResearch-based content on 4 major vision impairments\nMultiple-choice and matching quizzes\nFocus on accessibility and comprehension\n\n\n\n\nUsed ArcGIS and population data to:\n\nMap land use and zoning efficiency\nIdentify underutilized areas\nPropose traffic solutions for growing urban zones\n\n\n\n\nAn innovative collar design for animals that:\n\nUses a microcontroller and Bluetooth on a collar or harness\nInteracts with a home-based scanner to alert the owner\nIntegrates real-time notifications using visual and physical notifications\n\n\n\n\nAnalyzed air quality from 7,812 cities using Python:\n\nVisualized PM2.5 and AQI data trends\nIdentified top pollutant contributors\nSuggested targeted interventions for high-risk regions\n\n\n\n\nA visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data."
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\n🌍 Urban & Environmental Projects\nUsing GIS, open data, and spatial analysis to uncover insights about how we live and move through space.\n📊 Data Visualizations & Storytelling\nI turn complex datasets into digestible graphics, interactive maps, and fun educational tools.\n🐦 Birdwatching & Nature Logs\nA personal touch — my love for the outdoors shows up in how I think about data and the environment."
   },
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
-    "title": "Marta Skira - Portfolio",
-    "section": "",
-    "text": "Email: martaskira2@gmail.com\n\nLinkedIn: linkedin.com/in/martaskira\n\nGitHub: github.com/martaskira\n\nThanks for stopping by! Feel free to explore my work and reach out if you’d like to collaborate on data-driven learning experiences or research-focused projects.\n\n© 2025 Marta Skira. Built with ❤️ using Quarto."
+    "title": "Welcome",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always looking to collaborate with others who care about meaningful communication, especially through data and design.\nGitHub\nLinkedIn\n📫 Email me\n\n\nMade with 💚 using Quarto & GitHub Pages &lt;/footer"
   },
   {
     "objectID": "ArcGIS/index.html",
@@ -289,8 +282,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "This website is my creative space—a place where I bring together my projects, passions, and curiosity. From interactive learning modules to visual storytelling, each piece here reflects my interest in making complex ideas more accessible and engaging. Whether I’m exploring science through design, building digital tools, or experimenting with new platforms, this site is my way of sharing what I’m learning and creating along the way."
+    "text": "A Bit About Me 🌱\nI’m Marta — an early-career data analyst with a deep interest in cities, the environment, and how data can help us understand both more clearly.\nI recently completed my degree in Biology for Health Science at University of Toronto, where I focused on topics like environmental planning, spatial data, and urban systems. During that time, I discovered how much I love working with data — especially when I can turn it into something educational, visual, or interactive."
+  },
+  {
+    "objectID": "about.html#skills-tools",
+    "href": "about.html#skills-tools",
+    "title": "About Me",
+    "section": "🧰 Skills & Tools",
+    "text": "🧰 Skills & Tools\nI enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:\n\nData Analysis: R, Python (pandas, geopandas), Excel\nSpatial Analysis & GIS: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python\nData Visualization: ggplot2, matplotlib, seaborn, Plotly, Quarto, Observable\nWeb & Communication: Quarto websites, Markdown, GitHub Pages\nSoft Skills: Communication, visual thinking, creativity, public speaking"
+  },
+  {
+    "objectID": "about.html#how-i-think-about-data",
+    "href": "about.html#how-i-think-about-data",
+    "title": "About Me",
+    "section": "📚 How I Think About Data",
+    "text": "📚 How I Think About Data\nFor me, data is more than numbers — it’s a tool for curiosity, learning, and storytelling.\nI enjoy: - Turning raw data into maps or visualizations that teach something new - Exploring questions about urban systems, accessibility, nature, and planning - Making data approachable through design, graphics, and clear explanations"
+  },
+  {
+    "objectID": "about.html#outside-the-dataset",
+    "href": "about.html#outside-the-dataset",
+    "title": "About Me",
+    "section": "🌿 Outside the Dataset",
+    "text": "🌿 Outside the Dataset\nWhen I’m not coding or mapping, you’ll likely find me: - Out birdwatching with my binoculars - Exploring parks or city trails - Sketching out ideas for interactive explainers - Thinking about how to make information more joyful to learn\n\n\nI’m always open to collaborations that blend data, design, and curiosity — especially projects related to sustainability, urban life, and environmental education.\n\nLet’s Chat"
   }
 ]

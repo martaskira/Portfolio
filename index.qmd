@@ -1,84 +1,55 @@
 ---
-title: "Marta Skira - Portfolio"
-format: html
-page-layout: full
-title-block-banner: true
+title: "Welcome"
+format:
+  html:
+    css: styles/styles.css
+    toc: false
 ---
 
-# 👋 Hi, I'm Marta Skira
+:::{.home-title}
+Hi, I’m Marta 🌿
+:::
 
-Welcome to my portfolio! I'm a data-driven and creative problem solver with a background in **Health Science**, **Biomedical Communications and Technology**, and **Visual Studies**. I love combining data, design, and storytelling to build engaging digital experiences — whether it's an e-learning module, a birdwatching data project, or a global air pollution data analysis.
+:::{.home-subtitle}
+Environmental Data Enthusiast | Urban Planning Analyst | Storyteller with a Map
+:::
 
----
+:::{.highlight-box}
+I work at the intersection of data, cities, and nature — analyzing patterns and creating visual stories that make information easier (and more fun!) to understand.  
+Whether it's a map, chart, or a quirky dataset, I love using data to teach, explore, and inspire.
+:::
 
-## 🎓 About Me
-
-- **Degree**: Honours Bachelor of Science, Health Science (University of Toronto, 2024)  
-- **Minors**: Biomedical Communications, Technology, and Visual Studies  
-- **Skills**: Python, SQL, Tableau, Excel, ArcGIS, Adobe Illustrator  
-- **Focus Areas**: Data, data visualization, e-learning design, urban analytics, and environmental science  
-- **Certifications**:  
-  - Python for Data Analysis – LinkedIn Learning  
-  - SQL for Data Analysis – LinkedIn Learning  
-  - Data Science Foundations – LinkedIn Learning  
-
----
-
-## 🧠 Featured Projects
-
-### 🔍 [Vision Impairments E-Learning Module](./vision-module/index.qmd)
-An interactive learning experience featuring:
-
-- 3D eye anatomy model
-
-- Research-based content on 4 major vision impairments
-
-- Multiple-choice and matching quizzes
-
-- Focus on accessibility and comprehension
-
-### 🌆 [Urban Planning & GIS Analysis](./ArcGIS/index.qmd)
-Used ArcGIS and population data to:
-
-- Map land use and zoning efficiency
-
-- Identify underutilized areas
-
-- Propose traffic solutions for growing urban zones
-
-### 💻 [ESP-Featherboard Prototype Project](./Prototype/index.qmd)
-An innovative collar design for animals that:
-
-- Uses a microcontroller and Bluetooth on a collar or harness
-
-- Interacts with a home-based scanner to alert the owner
-
-- Integrates real-time notifications using visual and physical notifications
-
-### 🌍 [Global Air Pollution Analysis](https://github.com/martaskira/Global-Air-Pollution-Analysis)
-Analyzed air quality from 7,812 cities using Python:
-
-- Visualized PM2.5 and AQI data trends
-
-- Identified top pollutant contributors
-
-- Suggested targeted interventions for high-risk regions
-
-### 🐦 [Birdwatching & Anatomy E-Learning] [Coming Soon!]
-A visual and auditory guide to learning bird anatomy and identification — powered by interactive quizzes and field data.
+<div class="button-row">
+  <a href="vision-module/index.qmd" class="button">👁️ Vision Module</a>
+  <a href="ArcGIS/index.qmd" class="button">🗺️ GIS Projects</a>
+  <a href="Prototype/index.qmd" class="button">🎨 Design & Storytelling</a>
+</div>
 
 ---
 
-## 📫 Let's Connect
+## What You'll Find Here
 
-- **Email**: martaskira2@gmail.com  
-- **LinkedIn**: [linkedin.com/in/martaskira](#)  
-- **GitHub**: [github.com/martaskira](#)
+- 🌍 **Urban & Environmental Projects**  
+  Using GIS, open data, and spatial analysis to uncover insights about how we live and move through space.
 
-Thanks for stopping by! Feel free to explore my work and reach out if you'd like to collaborate on data-driven learning experiences or research-focused projects.
+- 📊 **Data Visualizations & Storytelling**  
+  I turn complex datasets into digestible graphics, interactive maps, and fun educational tools.
+
+- 🐦 **Birdwatching & Nature Logs**  
+  A personal touch — my love for the outdoors shows up in how I think about data and the environment.
 
 ---
 
-© 2025 Marta Skira. Built with ❤️ using [Quarto](https://quarto.org).
+## Let's Connect
 
+I’m always looking to collaborate with others who care about meaningful communication, especially through data and design.
 
+[GitHub](https://github.com/martaskira)  
+[LinkedIn](https://www.linkedin.com/in/martaskira)  
+📫 [Email me](mailto:your@email.com)
+
+---
+
+<footer>
+Made with 💚 using Quarto & GitHub Pages
+</footer

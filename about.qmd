@@ -1,16 +1,56 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/martaskira
-    - icon: github
-      text: Github
-      href: https://github.com/martaskira
+format:
+  html:
+    css: styles/styles.css
+    toc: false
+---
+
+:::{.home-title}
+A Bit About Me 🌱
+:::
+
+I’m Marta — an early-career data analyst with a deep interest in cities, the environment, and how data can help us understand both more clearly.
+
+I recently completed my degree in **Biology for Health Science** at **University of Toronto**, where I focused on topics like environmental planning, spatial data, and urban systems. During that time, I discovered how much I love working with data — especially when I can turn it into something **educational**, **visual**, or **interactive**.
 
 ---
 
-This website is my creative space—a place where I bring together my projects, passions, and curiosity. From interactive learning modules to visual storytelling, each piece here reflects my interest in making complex ideas more accessible and engaging. Whether I’m exploring science through design, building digital tools, or experimenting with new platforms, this site is my way of sharing what I’m learning and creating along the way.
+## 🧰 Skills & Tools
+
+I enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:
+
+- **Data Analysis**: R, Python (pandas, geopandas), Excel
+- **Spatial Analysis & GIS**: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python
+- **Data Visualization**: ggplot2, matplotlib, seaborn, Plotly, Quarto, Observable
+- **Web & Communication**: Quarto websites, Markdown, GitHub Pages
+- **Soft Skills**: Communication, visual thinking, creativity, public speaking
+
+---
+
+## 📚 How I Think About Data
+
+For me, data is more than numbers — it’s a tool for **curiosity, learning, and storytelling**.  
+I enjoy:
+- Turning raw data into **maps or visualizations** that teach something new
+- Exploring questions about **urban systems, accessibility, nature, and planning**
+- Making data **approachable** through design, graphics, and clear explanations
+
+---
+
+## 🌿 Outside the Dataset
+
+When I'm not coding or mapping, you’ll likely find me:
+- Out **birdwatching** with my binoculars
+- Exploring parks or city trails
+- Sketching out ideas for **interactive explainers**
+- Thinking about how to make information more joyful to learn
+
+---
+
+:::{.highlight-box}
+I'm always open to collaborations that blend **data, design, and curiosity** — especially projects related to sustainability, urban life, and environmental education.
+:::
+
+[Let’s Chat](martaskira2@gmail.com){.button}

@@ -1,1 +1,124 @@
-/* css styles */
+/* Base styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fefcf9;
+  color: #3e3e3e;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+  color: #4a3f35;
+  margin-bottom: 0.5em;
+}
+
+/* Navigation (if any) */
+.navbar, nav {
+  background-color: #fefcf9;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #e6e1d4;
+}
+
+.navbar a, nav a {
+  color: #588157;
+  text-decoration: none;
+  font-weight: 500;
+  margin-right: 1rem;
+}
+
+.navbar a:hover, nav a:hover {
+  color: #386641;
+}
+
+/* Section Layout */
+section, .content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+/* Card / Project Preview Box */
+.card, .project-box {
+  background: #fffdf9;
+  border: 1px solid #e0dacf;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  margin-bottom: 2rem;
+  transition: transform 0.2s ease;
+}
+
+.card:hover, .project-box:hover {
+  transform: translateY(-4px);
+}
+
+/* Links */
+a {
+  color: #588157;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #386641;
+  text-decoration: underline;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Button (optional) */
+.button {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  background-color: #a3b18a;
+  color: #fff;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #588157;
+}
+
+/* Footer */
+footer {
+  background-color: #f5f0e6;
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
+  color: #6a665d;
+}
+
+/* Fun flourishes for home page */
+.home-title {
+  font-size: 3rem;
+  color: #4a3f35;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.home-subtitle {
+  font-size: 1.4rem;
+  color: #6f665c;
+  margin-bottom: 2rem;
+}
+
+.highlight-box {
+  background-color: #fdf7f0;
+  border-left: 5px solid #cb997e;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+  font-style: italic;
+}
