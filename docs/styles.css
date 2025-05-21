@@ -122,3 +122,18 @@ footer {
   margin: 2rem 0;
   font-style: italic;
 }
+
+/* Button row styling for multiple project buttons */
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+
+.button-row .button {
+  flex: 1 1 auto;
+  min-width: 180px;
+  text-align: center;
+}
