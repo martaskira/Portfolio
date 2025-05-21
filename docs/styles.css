@@ -144,8 +144,8 @@ footer {
 }
 
 .profile-pic {
-  width: 30px;
-  height: 30px;
+  width: 80px;
+  height: 80px;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid #a3b18a; /* soft earthy border */
