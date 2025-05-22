@@ -1,5 +1,5 @@
 ---
-title: "Vision Impairments E-Learning Modulem"
+title: "Vision Impairments E-Learning Module"
 author: "Marta Skira"
 date: 2023-10-15
 categories: [E-Learning, H5P, Blender]
@@ -73,15 +73,46 @@ When light hits the retina in the back of your eye, it’s converted into electr
 
 ## 🔬 Eye Anatomy
 
-<iframe src="https://martaskira.h5p.com/content/1292566323302357738/embed" aria-label="Learn about Eye Anatomy" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<div style="width: 100%;">
+  <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+    <iframe 
+      title="Start" 
+      frameborder="0" 
+      width="1200" 
+      height="675" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://view.genially.com/682f0c87a686108271f3e359" 
+      type="text/html" 
+      allowscriptaccess="always" 
+      allowfullscreen="true" 
+      scrolling="yes" 
+      allownetworking="all">
+    </iframe>
+  </div>
+</div>
 
 ---
 
 ## 🧪 Quiz: Eye Anatomy & Vision Basics
 
-<iframe src="https://martaskira.h5p.com/content/1292566315107750498/embed" aria-label="🧪 Quiz: Eye Anatomy &amp; Vision Basics" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://martaskira.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<div style="width: 100%;">
+  <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+    <iframe 
+      title="🧪 Quiz: Eye Anatomy & Vision Basics" 
+      frameborder="0" 
+      width="1200" 
+      height="675" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://view.genially.com/682f0c87a686108271f3e359" 
+      type="text/html" 
+      allowscriptaccess="always" 
+      allowfullscreen="true" 
+      scrolling="yes" 
+      allownetworking="all">
+    </iframe>
+  </div>
+</div>
+
 
 ---
 

@@ -135,84 +135,84 @@
   {
     "objectID": "vision-module/index.html",
     "href": "vision-module/index.html",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "",
     "text": "This interactive educational module is designed to teach learners about common vision impairments in adults over 40. It was built as part of my digital learning design work and combines 3D visuals, scientific research, and memory-boosting quizzes."
   },
   {
     "objectID": "vision-module/index.html#project-overview",
     "href": "vision-module/index.html#project-overview",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🧠 Project Overview",
     "text": "🧠 Project Overview\n\nTopic: Common vision impairments in adults\n\n\nFeatures:\n\nInteractive eye anatomy model\nDescriptions of 4 major vision impairments\nRisk factors, corrections, and treatment options\nMultiple-choice and matching quizzes\nAccessibility-focused design\n\n\n\nTools Used:\n\nH5P\nBlender (for 3D model)\nHTML\nQuarto\n\nThe module includes:\n\nClickable eye diagram for exploring parts of the eye\n3D embedded model to visualize how vision works\nQuizzes to reinforce learning and improve recall"
   },
   {
     "objectID": "vision-module/index.html#learning-outcomes",
     "href": "vision-module/index.html#learning-outcomes",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🎯 Learning Outcomes",
     "text": "🎯 Learning Outcomes\nBy the end of this module, viewers will be able to:\n\nIdentify parts of the eye and understand the process behind vision.\nUnderstand what vision impairments are and identify the most common ones in adults.\nVisualize how vision impairments affect perception compared to normal vision.\nIdentify common risk factors for each impairment.\nUnderstand ways to reduce the chances of developing impairments.\nRecognize available treatment options."
   },
   {
     "objectID": "vision-module/index.html#lets-take-a-look-at-what-the-eye-looks-like-inside",
     "href": "vision-module/index.html#lets-take-a-look-at-what-the-eye-looks-like-inside",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "Let’s take a look at what the eye looks like inside!",
     "text": "Let’s take a look at what the eye looks like inside!\nClick and drag around the eye to see the difference components!"
   },
   {
     "objectID": "vision-module/index.html#what-are-vision-impairments",
     "href": "vision-module/index.html#what-are-vision-impairments",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "👁️ What Are Vision Impairments?",
     "text": "👁️ What Are Vision Impairments?\nVisual impairment is a term for any kind of vision loss, whether it’s complete blindness or partial vision loss. Some people are born with visual impairments, while others develop them later in life.\n(Source: KidsHealth)"
   },
   {
     "objectID": "vision-module/index.html#how-eyes-work",
     "href": "vision-module/index.html#how-eyes-work",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🧠 How Eyes Work",
     "text": "🧠 How Eyes Work\nWhen light hits the retina in the back of your eye, it’s converted into electrical signals that your optic nerve sends to your brain. Your brain turns these signals into the images you see.\n(Source: NEI - How Eyes Work)"
   },
   {
     "objectID": "vision-module/index.html#eye-anatomy",
     "href": "vision-module/index.html#eye-anatomy",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🔬 Eye Anatomy",
-    "text": "🔬 Eye Anatomy"
+    "text": "🔬 Eye Anatomy\n\n\n&lt;iframe \n  title=\"Start\" \n  frameborder=\"0\" \n  width=\"1200\" \n  height=\"675\" \n  style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" \n  src=\"https://view.genially.com/682f0c87a686108271f3e359\" \n  type=\"text/html\" \n  allowscriptaccess=\"always\" \n  allowfullscreen=\"true\" \n  scrolling=\"yes\" \n  allownetworking=\"all\"&gt;\n&lt;/iframe&gt;"
   },
   {
     "objectID": "vision-module/index.html#quiz-eye-anatomy-vision-basics",
     "href": "vision-module/index.html#quiz-eye-anatomy-vision-basics",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🧪 Quiz: Eye Anatomy & Vision Basics",
-    "text": "🧪 Quiz: Eye Anatomy & Vision Basics"
+    "text": "🧪 Quiz: Eye Anatomy & Vision Basics\n\n\n&lt;iframe \n  title=\"🧪 Quiz: Eye Anatomy & Vision Basics\" \n  frameborder=\"0\" \n  width=\"1200\" \n  height=\"675\" \n  style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" \n  src=\"https://view.genially.com/682f0c87a686108271f3e359\" \n  type=\"text/html\" \n  allowscriptaccess=\"always\" \n  allowfullscreen=\"true\" \n  scrolling=\"yes\" \n  allownetworking=\"all\"&gt;\n&lt;/iframe&gt;"
   },
   {
     "objectID": "vision-module/index.html#common-vision-impairments",
     "href": "vision-module/index.html#common-vision-impairments",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🧓 Common Vision Impairments",
     "text": "🧓 Common Vision Impairments\n\n🔹 Blurred Vision (Refractive Errors)\nWhat is it? A refractive error means your eye can’t bend light properly, leading to blurry vision.\n- Types: Myopia (nearsightedness) and hyperopia (farsightedness)\n\n\n Sight with Myopia\n\n Sight with Hyperopia\n\n\n\nRisk Factors: Age, Genetics\n\nCorrections: Glasses, Contact lenses, Refractive surgery (LASIK)\n(Source: UM Kellogg Eye Center)\n\n\n\n\n🔹 Age-Related Macular Degeneration (AMD)\nWhat is it? Damage to the macula, the part of the retina responsible for sharp central vision.\n\nTypes: Dry form and wet form\n\n\n\n  Sight with AMD\n\n\n\n\n\n\n🧪 Dry Form AMD\n\n\n\n\n\n💧 Wet Form AMD\n\n\n\n\n\n\n\nRisk Factors: Age (50+), Smoking, Family history\n\nCorrections: Vitamin supplements, Laser therapy, Injections\n(Source: UM Kellogg Eye Center - AMD)\n\n\n\n🔹 Glaucoma\nWhat is it? A group of diseases that damage the eye’s optic nerve, often due to high eye pressure.\n\nTypes: Open-angle, Closed-angle\n\n\n\n  Sight with glaucoma\n\n\n\n\n\n\n🔒 Close Angle Glaucoma\n\n\n\n\n\n👁️ Open Angle Glaucoma\n\n\n\n\n\n\n\nRisk Factors: Age, Family history, High eye pressure\n\nCorrections: Eye drops, Laser treatment, Surgery\n(Source: UM Kellogg Eye Center - Glaucoma)\n\n\n\n🔹 Cataract\nWhat is it? Clouding of the eye’s lens, leading to blurry or dim vision\n\n\n  Sight with cataract\n\n\n\nRisk Factors: Aging, Diabetes, UV exposure\n\nCorrections: Lens replacement surgery\n(Source: UM Kellogg Eye Center - Cataract)"
   },
   {
     "objectID": "vision-module/index.html#quiz-vision-impairments",
     "href": "vision-module/index.html#quiz-vision-impairments",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "🧪 Quiz: Vision Impairments",
     "text": "🧪 Quiz: Vision Impairments"
   },
   {
     "objectID": "vision-module/index.html#reflections",
     "href": "vision-module/index.html#reflections",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "💬 Reflections",
     "text": "💬 Reflections\nCreating this module helped me strengthen my ability to:\n\nTranslate complex scientific topics into accessible language\nBuild interactive digital learning tools\nBalance visual communication with pedagogical structure"
   },
   {
     "objectID": "vision-module/index.html#sources",
     "href": "vision-module/index.html#sources",
-    "title": "Vision Impairments E-Learning Modulem",
+    "title": "Vision Impairments E-Learning Module",
     "section": "📚 Sources",
     "text": "📚 Sources\n\nAmerican Optometric Association\n\nKidsHealth - Visual Impairment\n\nNational Eye Institute - How Eyes Work\n\nUM Kellogg Eye Center - Refractive Errors\n\nUM Kellogg Eye Center - AMD\n\nUM Kellogg Eye Center - Glaucoma\n\nUM Kellogg Eye Center - Cataract\n\nLetsEnvision - Challenges of Blind Individuals\n\n🔗 Return to Home Page"
   },

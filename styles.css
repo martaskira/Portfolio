@@ -102,7 +102,7 @@ footer {
 
 /* Fun flourishes for home page */
 .home-title {
-  font-size: 3rem;
+  font-size: 2.4rem;
   color: #4a3f35;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -136,4 +136,89 @@ footer {
   flex: 1 1 auto;
   min-width: 180px;
   text-align: center;
+}
+
+.profile-container {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #a3b18a; /* soft earthy border */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.profile-pic:hover {
+  transform: scale(1.05);
+}
+
+/* Reduce spacing between sections and headings */
+section, 
+footer,
+.highlight-box,
+.home-title,
+.home-subtitle,
+h2, h3, h4, h5, h6 {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Reduce spacing between paragraphs */
+p {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Tighter spacing in button row */
+.button-row {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* For about page content containers (adjust if you have a wrapper div) */
+.profile-container,
+.about-section,
+.contact-section {
+  margin-bottom: 2rem;
+}
+
+/* Optional: tighten footer spacing */
+footer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+/* Optional: Adjust the font size for smaller screens */
+@media (max-width: 768px) {
+  .home-title {
+    font-size: 2.5rem;
+  }
+
+  .home-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .button-row .button {
+    flex: 1 1 100%;
+    margin-bottom: 1rem;
+  }
+}
+/* Optional: Adjust the font size for smaller screens */
+@media (max-width: 480px) {
+  .home-title {
+    font-size: 2rem;
+  }
+
+  .home-subtitle {
+    font-size: 1rem;
+  }
+
+  .button-row .button {
+    flex: 1 1 100%;
+    margin-bottom: 0.5rem;
+  }
 }

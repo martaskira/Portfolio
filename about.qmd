@@ -11,6 +11,10 @@ format:
 A Bit About Me 🌱
 :::
 
+<div class="profile-container">
+  <img src="profile.jpg" alt="Marta's Profile Picture" class="profile-pic" />
+</div>
+
 I’m Marta — an early-career data analyst with a deep interest in cities, the environment, and how data can help us understand both more clearly.
 
 I recently completed my degree in **Biology for Health Science** at **University of Toronto**, where I focused on topics like environmental planning, spatial data, and urban systems. During that time, I discovered how much I love working with data — especially when I can turn it into something **educational**, **visual**, or **interactive**.
@@ -22,9 +26,14 @@ I recently completed my degree in **Biology for Health Science** at **University
 I enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:
 
 - **Data Analysis**: R, Python (pandas, geopandas), Excel
+
 - **Spatial Analysis & GIS**: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python
+
 - **Data Visualization**: ggplot2, matplotlib, seaborn, Plotly, Quarto, Observable
+
+
 - **Web & Communication**: Quarto websites, Markdown, GitHub Pages
+
 - **Soft Skills**: Communication, visual thinking, creativity, public speaking
 
 ---
@@ -33,8 +42,11 @@ I enjoy working at the intersection of technical and creative. Some of the tools
 
 For me, data is more than numbers — it’s a tool for **curiosity, learning, and storytelling**.  
 I enjoy:
+
 - Turning raw data into **maps or visualizations** that teach something new
+
 - Exploring questions about **urban systems, accessibility, nature, and planning**
+
 - Making data **approachable** through design, graphics, and clear explanations
 
 ---
@@ -42,9 +54,13 @@ I enjoy:
 ## 🌿 Outside the Dataset
 
 When I'm not coding or mapping, you’ll likely find me:
+
 - Out **birdwatching** with my binoculars
+
 - Exploring parks or city trails
+
 - Sketching out ideas for **interactive explainers**
+
 - Thinking about how to make information more joyful to learn
 
 ---
