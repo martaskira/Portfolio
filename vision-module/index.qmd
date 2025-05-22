@@ -73,6 +73,7 @@ When light hits the retina in the back of your eye, it’s converted into electr
 
 ## 🔬 Eye Anatomy
 
+```{=html}
 <div style="width: 100%;">
   <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
     <iframe 
@@ -90,11 +91,13 @@ When light hits the retina in the back of your eye, it’s converted into electr
     </iframe>
   </div>
 </div>
+```
 
 ---
 
 ## 🧪 Quiz: Eye Anatomy & Vision Basics
 
+```{=html}
 <div style="width: 100%;">
   <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
     <iframe 
@@ -112,7 +115,7 @@ When light hits the retina in the back of your eye, it’s converted into electr
     </iframe>
   </div>
 </div>
-
+```
 
 ---
 
