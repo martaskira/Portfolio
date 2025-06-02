@@ -25,7 +25,7 @@ I recently completed my degree in **Biology for Health Science** at **University
 
 I enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:
 
-- **Data Analysis**: R, Python (pandas, geopandas), Excel
+- **Data Analysis**: R, Python (pandas, geopandas), Excel, Power BI
 
 - **Spatial Analysis & GIS**: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python
 

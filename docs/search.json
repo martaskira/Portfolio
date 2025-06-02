@@ -291,7 +291,7 @@
     "href": "about.html#skills-tools",
     "title": "About Me",
     "section": "🧰 Skills & Tools",
-    "text": "🧰 Skills & Tools\nI enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:\n\nData Analysis: R, Python (pandas, geopandas), Excel\nSpatial Analysis & GIS: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python\nData Visualization: ggplot2, matplotlib, seaborn, Plotly, Quarto, Observable\nWeb & Communication: Quarto websites, Markdown, GitHub Pages\nSoft Skills: Communication, visual thinking, creativity, public speaking"
+    "text": "🧰 Skills & Tools\nI enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:\n\nData Analysis: R, Python (pandas, geopandas), Excel, Power BI\nSpatial Analysis & GIS: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python\nData Visualization: ggplot2, matplotlib, seaborn, Plotly, Quarto, Observable\nWeb & Communication: Quarto websites, Markdown, GitHub Pages\nSoft Skills: Communication, visual thinking, creativity, public speaking"
   },
   {
     "objectID": "about.html#how-i-think-about-data",
