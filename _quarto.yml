@@ -21,7 +21,7 @@ website:
         - text: "Design"
           href: Prototype/index.qmd
         - text: "Scientific Poster"
-          href: ScientificPoster/index.qmd  
+          href: scientific-poster/index.qmd  
       - text: "Side Projects"
         menu:
         - text: "Ancient Illustrations"

@@ -16,9 +16,11 @@ A Bit About Me 🌱
 </div>
 
 I’m Marta — a **science communicator and data storyteller** with a background in **Biology for Health Science** from the **University of Toronto**.  
+
 My work sits at the intersection of **data, medicine, and communication**, where I focus on turning complex topics into content that is **clear, accessible, and engaging** for diverse audiences.  
 
 I’ve built projects ranging from **scientific posters on myocardial infarctions**, to **interactive data modules on vision impairments**, to **illustrations of hominin anatomy and ancient tools**.  
+
 What ties all of these together is my passion for making knowledge approachable through **visuals, storytelling, and thoughtful design**.
 
 ---

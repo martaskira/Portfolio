@@ -31,5 +31,14 @@
   },
   "ScientificPoster/index.qmd": {
     "index.html": "2be2cf9f"
+  },
+  "scientific-poster/index.qmd": {
+    "index.html": "535be61c"
+  },
+  "naledi-drawings/index.qmd": {
+    "index.html": "c3985598"
+  },
+  "arc-gis/index.qmd": {
+    "index.html": "bb02a886"
   }
 }
