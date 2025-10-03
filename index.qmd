@@ -11,38 +11,38 @@ Hi, I’m Marta 🌿
 :::
 
 :::{.home-subtitle}
-Environmental Data Enthusiast | Urban Planning Analyst | Storyteller with a Map
+Medical & Scientific Communications | Evidence-Based Storytelling | Patient-Centered Design
 :::
 
 :::{.highlight-box}
-I work at the intersection of data, cities, and nature — analyzing patterns and creating visual stories that make information easier (and more fun!) to understand.  
-Whether it's a map, chart, or a quirky dataset, I love using data to teach, explore, and inspire.
+I translate complex science into clear, accurate, and useful content—for clinicians, patients, and product teams.
+My work spans literature reviews, slide decks, abstracts/posters, patient education, e-learning modules, and data visualizations.
 :::
 
 <div class="button-row">
   <a href="vision-module/index.qmd" class="button">👁️ Vision Module</a>
   <a href="ArcGIS/index.qmd" class="button">🗺️ GIS Projects</a>
   <a href="Prototype/index.qmd" class="button">🎨 Design & Storytelling</a>
-</div>
+</div> 
 
 ---
 
 ## What You'll Find Here
 
-- 🌍 **Urban & Environmental Projects**  
-  Using GIS, open data, and spatial analysis to uncover insights about how we live and move through space.
+- 🧬 **Medical & Scientific Communication**  
+  Translating complex biology, health science, and research concepts into clear, engaging content for learners, patients, and professionals.
 
-- 📊 **Data Visualizations & Storytelling**  
-  I turn complex datasets into digestible graphics, interactive maps, and fun educational tools.
+- 🎨 **Visual Storytelling & Educational Design**  
+  Posters, infographics, and interactive modules that make technical material approachable and memorable.
 
-- 🐦 **Birdwatching & Nature Logs**  
-  A personal touch — my love for the outdoors shows up in how I think about data and the environment.
+- 📊 **Data Interpretation for Broader Audiences**  
+  Turning datasets, whether environmental, medical, or urban, into narratives and graphics that inform decision-making and spark curiosity.
 
 ---
 
 ## Let's Connect
 
-I’m always looking to collaborate with others who care about meaningful communication, especially through data and design.
+I’m always open to collaborating on projects that elevate scientific clarity and patient understanding.
 
 [GitHub](https://github.com/martaskira)  
 [LinkedIn](https://www.linkedin.com/in/martaskira)  
@@ -51,5 +51,5 @@ I’m always looking to collaborate with others who care about meaningful commun
 ---
 
 <footer>
-Made with 💚 using Quarto & GitHub Pages
-</footer
+  Made with 💚 using Quarto & GitHub Pages
+</footer>
