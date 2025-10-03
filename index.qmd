@@ -2,7 +2,7 @@
 title: "Welcome"
 format:
   html:
-    css: styles/styles.css
+    css: styles.css
     toc: false
 ---
 

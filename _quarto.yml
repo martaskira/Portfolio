@@ -20,6 +20,8 @@ website:
           href: ArcGIS/index.qmd
         - text: "Design"
           href: Prototype/index.qmd
+        - text: "Scientific Poster"
+          href: ScientificPoster/index.qmd  
       - text: "Side Projects"
         menu:
         - text: "Ancient Illustrations"

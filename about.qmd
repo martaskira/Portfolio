@@ -3,7 +3,7 @@ title: "About Me"
 image: profile.jpg
 format:
   html:
-    css: styles/styles.css
+    css: styles.css
     toc: false
 ---
 
@@ -15,58 +15,47 @@ A Bit About Me 🌱
   <img src="profile.jpg" alt="Marta's Profile Picture" class="profile-pic" />
 </div>
 
-I’m Marta — an early-career data analyst with a deep interest in cities, the environment, and how data can help us understand both more clearly.
+I’m Marta — a **science communicator and data storyteller** with a background in **Biology for Health Science** from the **University of Toronto**.  
+My work sits at the intersection of **data, medicine, and communication**, where I focus on turning complex topics into content that is **clear, accessible, and engaging** for diverse audiences.  
 
-I recently completed my degree in **Biology for Health Science** at **University of Toronto**, where I focused on topics like environmental planning, spatial data, and urban systems. During that time, I discovered how much I love working with data — especially when I can turn it into something **educational**, **visual**, or **interactive**.
+I’ve built projects ranging from **scientific posters on myocardial infarctions**, to **interactive data modules on vision impairments**, to **illustrations of hominin anatomy and ancient tools**.  
+What ties all of these together is my passion for making knowledge approachable through **visuals, storytelling, and thoughtful design**.
 
 ---
 
 ## 🧰 Skills & Tools
 
-I enjoy working at the intersection of technical and creative. Some of the tools and skills I’ve picked up include:
-
-- **Data Analysis**: R, Python (pandas, geopandas), Excel, Power BI
-
-- **Spatial Analysis & GIS**: QGIS, ArcGIS, leaflet, mapbox, geospatial packages in R/Python
-
-- **Data Visualization**: ggplot2, matplotlib, seaborn, Plotly, Quarto, Observable
-
-
-- **Web & Communication**: Quarto websites, Markdown, GitHub Pages
-
-- **Soft Skills**: Communication, visual thinking, creativity, public speaking
+- **Medical & Scientific Communication**: Literature reviews, poster design, scientific illustration, explanatory modules  
+- **Data Analysis & Visualization**: Python (pandas, matplotlib, seaborn), R (ggplot2), Excel, Power BI  
+- **Spatial & Urban Data**: QGIS, ArcGIS, geospatial analysis, thematic mapping  
+- **Web & Digital Tools**: Quarto, GitHub Pages, Markdown, interactive modules (Genially, H5P)  
+- **Creative Skills**: Visual thinking, illustration (Adobe Illustrator, Blender), clear writing for non-experts  
+- **Soft Skills**: Communication, public speaking, collaboration, adaptability  
 
 ---
 
-## 📚 How I Think About Data
+## 📚 My Approach to Communication
 
-For me, data is more than numbers — it’s a tool for **curiosity, learning, and storytelling**.  
-I enjoy:
+For me, science and data are not just about facts — they’re about **stories**.  
 
-- Turning raw data into **maps or visualizations** that teach something new
-
-- Exploring questions about **urban systems, accessibility, nature, and planning**
-
-- Making data **approachable** through design, graphics, and clear explanations
+I love to:  
+- Translate **complex medical concepts** into visuals and explanations that make sense to non-specialists  
+- Use **design and storytelling** to highlight the human impact behind data and research  
+- Explore how communication can build **trust, understanding, and curiosity** in both medical and public audiences  
 
 ---
 
-## 🌿 Outside the Dataset
+## 🌿 Outside of Work
 
-When I'm not coding or mapping, you’ll likely find me:
-
-- Out **birdwatching** with my binoculars
-
-- Exploring parks or city trails
-
-- Sketching out ideas for **interactive explainers**
-
-- Thinking about how to make information more joyful to learn
+When I’m not building projects, you’ll probably find me:  
+- Out **birdwatching** or exploring city trails  
+- Sketching ideas for **illustrations or interactive explainers**  
+- Reading about the ways science communication shapes healthcare, education, and everyday decisions  
 
 ---
 
 :::{.highlight-box}
-I'm always open to collaborations that blend **data, design, and curiosity** — especially projects related to sustainability, urban life, and environmental education.
+I’m always open to collaborations that combine **medicine, data, and design** — especially projects that make science and health information more accessible to everyone.
 :::
 
-[Let’s Chat](martaskira2@gmail.com){.button}
+[📫 Let’s Chat](mailto:martaskira2@gmail.com){.button}
