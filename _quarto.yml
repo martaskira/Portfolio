@@ -14,6 +14,8 @@ website:
         href: index.qmd
       - text: "Projects"  
         menu:
+        - text: "Pregnancy Risks"
+          href: pregnancy-risks/index.qmd
         - text: "Vision Module"
           href: vision-module/index.qmd
         - text: "GIS"
@@ -25,7 +27,7 @@ website:
       - text: "Side Projects"
         menu:
         - text: "Ancient Illustrations"
-          href: Naledi-Drawings/index.qmd
+          href: naledi-drawings/index.qmd
 
 format:
   html:
