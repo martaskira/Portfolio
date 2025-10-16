@@ -15,30 +15,21 @@
     "index.html": "94938223"
   },
   "ArcGIS/index.qmd": {
-    "index.html": "1f084f38"
+    "index.html": "bb02a886"
   },
   "Prototype/index.qmd": {
     "index.html": "a4f69339"
   },
-  "Naledi Drawings/index.qmd": {
-    "index.html": "81b100be"
+  "naledi-drawings/index.qmd": {
+    "index.html": "c3985598"
   },
-  "Naledi-Drawings/index.qmd": {
-    "index.html": "70eeab0a"
-  },
-  "Side-Projects/Naledi-Drawings/index.qmd": {
+  "Side-Projects/naledi-drawings/index.qmd": {
     "index.html": "7675ea74"
-  },
-  "ScientificPoster/index.qmd": {
-    "index.html": "2be2cf9f"
   },
   "scientific-poster/index.qmd": {
     "index.html": "535be61c"
   },
-  "naledi-drawings/index.qmd": {
-    "index.html": "c3985598"
-  },
-  "arc-gis/index.qmd": {
-    "index.html": "bb02a886"
+  "pregnancy-risks/index.qmd": {
+    "index.html": "adf2cbca"
   }
 }
