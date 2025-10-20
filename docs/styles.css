@@ -231,3 +231,88 @@ footer {
     margin-bottom: 0.5rem;
   }
 }
+
+/* Life's Essential 8 grid */
+.le8 { margin: 1.5rem 0; }
+.le8 .le8-icon {
+  width: 80px;          /* tweak size here */
+  height: 80px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto .5rem;
+  border-radius: 8px;   /* optional */
+  box-shadow: 0 2px 6px rgba(0,0,0,.05); /* optional */
+}
+.le8 .le8-label {
+  font-weight: 600;
+  font-size: .95rem;
+  color: #4a3f35;
+}
+
+
+/* === Findings highlight cards with left color stripe === */
+.finding {
+  --stripe: #6b705c;            /* fallback if no modifier class is set */
+  background: #fffdf9;
+  border: 1px solid #e0dacf;
+  border-radius: 14px;
+  padding: 1rem 1.25rem 1.1rem 1.25rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  margin: 0 0 1rem 0;
+  position: relative;
+}
+
+/* the slim colored bar on the left */
+.finding::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0; bottom: 0;
+  width: 10px;                 /* adjust thickness here */
+  background: var(--stripe);
+  border-top-left-radius: 14px;
+  border-bottom-left-radius: 14px;
+}
+
+/* tidy text hierarchy */
+.finding h4 {
+  margin: 0 0 .35rem 0;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+.finding p { margin: 0; color: #554; }
+.finding .meta {
+  font-size: .9rem; color: #6b6a66; margin-bottom: .35rem;
+}
+
+/* color variants (earthy + accessible contrast) */
+.finding.green  { --stripe: #6f8f63; }  /* healthy/baseline */
+.finding.yellow { --stripe: #c7a041; }  /* little activity */
+.finding.orange { --stripe: #d97a2b; }  /* snoring + higher weight */
+.finding.red    { --stripe: #c45a5a; }  /* poor behaviors */
+
+/* small screen spacing */
+@media (max-width: 640px) {
+  .finding { padding-left: 1rem; }
+  .finding::before { width: 8px; }
+}
+
+.findings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+/* Grid wrapper for the four findings cards */
+.findings-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+/* 1-column on small screens, 2 columns on larger */
+@media (min-width: 768px) {
+  .findings-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

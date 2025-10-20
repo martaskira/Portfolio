@@ -26,50 +26,52 @@ Researchers from Mount Sinai studied more than 6,000 pregnant women to see how e
 
 They used a simple framework from the American Heart Association called **“Life’s Essential 8,”** which focuses on 8 things that keep your heart healthy:
 
-## Life’s Essential 8
+<h2>Life’s Essential 8</h2>
 
-<div class="le8-grid">
+<div class="container le8">
+  <div class="row g-4 text-center">
 
-<div>
-  <img src="images/diet.png" alt="Healthy diet icon">
-  <h4>Healthy Diet</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/diet.png" alt="Healthy diet" class="le8-icon">
+      <div class="le8-label">Healthy Diet</div>
+    </div>
 
-<div>
-  <img src="images/active.png" alt="Physical activity icon">
-  <h4>Physical Activity</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/active.png" alt="Physical activity" class="le8-icon">
+      <div class="le8-label">Physical Activity</div>
+    </div>
 
-<div>
-  <img src="images/nicotine.png" alt="No nicotine icon">
-  <h4>No Nicotine</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/nicotine.png" alt="No nicotine" class="le8-icon">
+      <div class="le8-label">No Nicotine</div>
+    </div>
 
-<div>
-  <img src="images/sleep.png" alt="Sleep health icon">
-  <h4>Good Sleep</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/sleep.png" alt="Sleep health" class="le8-icon">
+      <div class="le8-label">Good Sleep</div>
+    </div>
 
-<div>
-  <img src="images/weight.png" alt="Healthy weight (BMI) icon">
-  <h4>Healthy Weight</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/weight.png" alt="Healthy weight" class="le8-icon">
+      <div class="le8-label">Healthy Weight</div>
+    </div>
 
-<div>
-  <img src="images/blood_pressure.png" alt="Blood pressure icon">
-  <h4>Balancing Blood Pressure</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/blood_pressure.png" alt="Blood pressure" class="le8-icon">
+      <div class="le8-label">Balancing Blood Pressure</div>
+    </div>
 
-<div>
-  <img src="images/glucose.png" alt="Blood glucose icon">
-  <h4>Managing Blood Sugar</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/glucose.png" alt="Blood sugar" class="le8-icon">
+      <div class="le8-label">Managing Blood Sugar</div>
+    </div>
 
-<div>
-  <img src="images/lipids.png" alt="Blood lipids icon">
-  <h4>Balancing Cholesterol</h4>
-</div>
+    <div class="col-6 col-md-3">
+      <img src="images/lipids.png" alt="Cholesterol" class="le8-icon">
+      <div class="le8-label">Balancing Cholesterol</div>
+    </div>
 
+  </div>
 </div>
 
 ---
