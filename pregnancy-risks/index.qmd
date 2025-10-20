@@ -1,11 +1,167 @@
 ---
-title: "Pregnancy Risks"
+title: "Understanding High Blood Pressure During Pregnancy"
+pagetitle: "Understanding High Blood Pressure During Pregnancy"
+author: "Marta Skira"
+date: 2025-10-16
+categories: [Medical Communication, Educational Writing, Pregnancy]
 format:
   html:
     css: styles.css
     toc: true
+    page-layout: full
+listing: false
 ---
 
-# Hello from Pregnancy Risks
+## 🌿 What is this / Why does this matter?
 
-This page renders correctly when you see this text.
+High blood pressure during pregnancy, also called **hypertensive disorders of pregnancy (HDP)**, is becoming more common. In the U.S., it affects almost **1 in every 10 pregnancies** and can increase the risk of complications for both mom and baby.
+
+The good news? Many of the risk factors can be spotted early and improved through lifestyle habits—things like sleep, diet, and physical activity.
+
+---
+
+## ❤️ What the Study Looked At
+
+Researchers from Mount Sinai studied more than 6,000 pregnant women to see how early-pregnancy habits—like how much they moved, slept, or smoked—related to blood pressure later on.
+
+They used a simple framework from the American Heart Association called **“Life’s Essential 8,”** which focuses on 8 things that keep your heart healthy:
+
+## Life’s Essential 8
+
+<div class="le8-grid">
+
+<div>
+  <img src="images/diet.png" alt="Healthy diet icon">
+  <h4>Healthy Diet</h4>
+</div>
+
+<div>
+  <img src="images/active.png" alt="Physical activity icon">
+  <h4>Physical Activity</h4>
+</div>
+
+<div>
+  <img src="images/nicotine.png" alt="No nicotine icon">
+  <h4>No Nicotine</h4>
+</div>
+
+<div>
+  <img src="images/sleep.png" alt="Sleep health icon">
+  <h4>Good Sleep</h4>
+</div>
+
+<div>
+  <img src="images/weight.png" alt="Healthy weight (BMI) icon">
+  <h4>Healthy Weight</h4>
+</div>
+
+<div>
+  <img src="images/blood_pressure.png" alt="Blood pressure icon">
+  <h4>Balancing Blood Pressure</h4>
+</div>
+
+<div>
+  <img src="images/glucose.png" alt="Blood glucose icon">
+  <h4>Managing Blood Sugar</h4>
+</div>
+
+<div>
+  <img src="images/lipids.png" alt="Blood lipids icon">
+  <h4>Balancing Cholesterol</h4>
+</div>
+
+</div>
+
+---
+
+## 🌸 What They Found
+
+Women tended to fall into four lifestyle groups early in pregnancy:
+
+:::: {.findings-grid}
+
+::: {.finding green}
+#### 🟢 Healthy Habits — baseline risk
+<div class="meta">Good diet, regular activity, no nicotine; normal BMI & BP</div>
+<p>You’re already doing great! Staying active, eating balanced meals, and keeping your blood pressure healthy all support your heart and your baby’s growth.</p>
+:::
+
+::: {.finding yellow}
+#### 🟡 Little Activity — no extra risk
+<div class="meta">Normal BMI & BP, but very little exercise</div>
+<p>Even light movement like walking or stretching can help with energy and circulation. Try finding small, gentle ways to move that feel good each day.</p>
+:::
+
+::: {.finding orange}
+#### 🟠 Snoring + Higher Weight — **~2.4× higher risk**
+<div class="meta">Frequent snoring and higher body weight</div>
+<p>If you often snore or wake up tired, it may be worth talking to your care team. Improving sleep and small lifestyle tweaks can make a big difference for your heart and blood pressure.</p>
+:::
+
+::: {.finding red}
+#### 🔴 Unhealthy Habits — **~1.5× higher risk**
+<div class="meta">Tobacco exposure, low-quality diet, low activity (even with normal weight)</div>
+<p>Quitting smoking, improving your diet, and getting more rest are powerful steps for both you and your baby. Every small change adds up — it’s never too late to start fresh.</p>
+:::
+
+::::
+
+---
+
+## 😴 Why Snoring Matters
+
+It surprised even the researchers: women who snored regularly, especially those with higher body weight, were twice as likely to develop high blood pressure later in pregnancy. Snoring can be a sign of sleep-disordered breathing, which makes it harder for the body to get enough oxygen at night and can raise blood pressure.
+
+**💡 What you can do:**
+
+- Tell your healthcare provider if you snore often or wake up tired.
+
+- Try sleeping on your side.
+
+- Focus on maintaining a healthy weight before and during pregnancy.
+
+---
+
+## 🧘‍♀️ Lifestyle Makes a Big Difference
+
+Even for women with a normal weight, habits like smoking, low-quality diet, or being inactive increased risk. The study showed that everyday behaviors—not just medical history—play a powerful role in pregnancy health.
+
+**Simple ways to support a healthy pregnancy:**
+
+- Aim for gentle movement each day (like walking or prenatal yoga).
+
+- Eat plenty of fruits, veggies, and whole grains.
+
+- Keep stress levels manageable: mindfulness, rest, and talking with others can help.
+
+- Avoid nicotine and secondhand smoke.
+
+---
+
+## 🌍 Social and Emotional Support Matters Too
+
+Women with higher blood pressure risks were also more likely to experience stress, have less social support, or face financial challenges.
+
+If you’re struggling, know that it’s not your fault. Stress and circumstances can make healthy habits harder. Asking for help from your care team or loved ones can make a big difference.
+
+---
+
+## 💬 What This Means for You
+
+This research shows there isn’t just one path to developing high blood pressure in pregnancy.
+
+- For some, it’s linked to **sleep and weight**.  
+
+- For others, it’s tied to **stress and daily habits**.  
+
+**The key message:** small changes early in pregnancy can help protect your heart and your baby.
+
+If you’re pregnant, ask your provider about:
+
+- Early blood pressure checks  
+
+- Sleep quality and snoring  
+
+- Safe ways to stay active  
+
+- Nutrition resources or prenatal programs
