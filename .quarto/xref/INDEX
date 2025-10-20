@@ -34,5 +34,8 @@
   },
   "ancient-drawings/index.qmd": {
     "index.html": "489826cd"
+  },
+  "test.qmd": {
+    "test.html": "333ac9b4"
   }
 }
