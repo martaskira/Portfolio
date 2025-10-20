@@ -26,53 +26,11 @@ Researchers from Mount Sinai studied more than 6,000 pregnant women to see how e
 
 They used a simple framework from the American Heart Association called **“Life’s Essential 8,”** which focuses on 8 things that keep your heart healthy:
 
-<h2>Life’s Essential 8</h2>
+## Life’s Essential 8
 
-<div class="container le8">
-  <div class="row g-4 text-center">
-
-    <div class="col-6 col-md-3">
-      <img src="images/diet.png" alt="Healthy diet" class="le8-icon">
-      <div class="le8-label">Healthy Diet</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/active.png" alt="Physical activity" class="le8-icon">
-      <div class="le8-label">Physical Activity</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/nicotine.png" alt="No nicotine" class="le8-icon">
-      <div class="le8-label">No Nicotine</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/sleep.png" alt="Sleep health" class="le8-icon">
-      <div class="le8-label">Good Sleep</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/weight.png" alt="Healthy weight" class="le8-icon">
-      <div class="le8-label">Healthy Weight</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/blood_pressure.png" alt="Blood pressure" class="le8-icon">
-      <div class="le8-label">Balancing Blood Pressure</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/glucose.png" alt="Blood sugar" class="le8-icon">
-      <div class="le8-label">Managing Blood Sugar</div>
-    </div>
-
-    <div class="col-6 col-md-3">
-      <img src="images/lipids.png" alt="Cholesterol" class="le8-icon">
-      <div class="le8-label">Balancing Cholesterol</div>
-    </div>
-
-  </div>
-</div>
+| ![](images/diet.png){.le8-icon width=80 height=80}<br>**Healthy Diet** | ![](images/active.png){.le8-icon width=80 height=80}<br>**Physical Activity** | ![](images/nicotine.png){.le8-icon width=80 height=80}<br>**No Nicotine** | ![](images/sleep.png){.le8-icon width=80 height=80}<br>**Good Sleep** |
+|---|---|---|---|
+| ![](images/weight.png){.le8-icon width=80 height=80}<br>**Healthy Weight** | ![](images/blood_pressure.png){.le8-icon width=80 height=80}<br>**Balancing Blood Pressure** | ![](images/glucose.png){.le8-icon width=80 height=80}<br>**Managing Blood Sugar** | ![](images/lipids.png){.le8-icon width=80 height=80}<br>**Balancing Cholesterol** |
 
 ---
 
