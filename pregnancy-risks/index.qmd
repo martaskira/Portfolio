@@ -34,34 +34,27 @@ They used a simple framework from the American Heart Association called **“Lif
 
 ---
 
-<h2>🌸 What They Found</h2>
-<p>Women tended to fall into four lifestyle groups early in pregnancy:</p>
+## 🌸 What They Found
+
+Women tended to fall into four lifestyle groups early in pregnancy:
 
 <div class="findings-grid">
 
-  <div class="finding green">
-    <h4>🟢 Healthy Habits — baseline risk</h4>
-    <div class="meta">Good diet, regular activity, no nicotine; normal BMI &amp; BP</div>
-    <p>You’re already doing great! Staying active, eating balanced meals, and keeping your blood pressure healthy all support your heart and your baby’s growth.</p>
-  </div>
+#### 🟢 Healthy Habits — baseline risk {.finding .green}
+*Good diet, regular activity, no nicotine; normal BMI & BP*{.meta}
+You’re already doing great! Staying active, eating balanced meals, and keeping your blood pressure healthy all support your heart and your baby’s growth.
 
-  <div class="finding yellow">
-    <h4>🟡 Little Activity — no extra risk</h4>
-    <div class="meta">Normal BMI &amp; BP, but very little exercise</div>
-    <p>Even light movement like walking or stretching can help with energy and circulation. Try finding small, gentle ways to move that feel good each day.</p>
-  </div>
+#### 🟡 Little Activity — no extra risk {.finding .yellow}
+*Normal BMI & BP, but very little exercise*{.meta}
+Even light movement like walking or stretching can help with energy and circulation. Try finding small, gentle ways to move that feel good each day.
 
-  <div class="finding red">
-    <h4>🟠 Unhealthy Habits — <strong>~1.5× higher risk</strong></h4>
-    <div class="meta">Tobacco exposure, low-quality diet, low activity (even with normal weight)</div>
-    <p>Quitting smoking, improving your diet, and getting more rest are powerful steps for both you and your baby. Every small change adds up. It’s never too late to start fresh.</p>
-  </div>
+#### 🟠 Unhealthy Habits — **~1.5× higher risk** {.finding .red}
+*Tobacco exposure, low-quality diet, low activity (even with normal weight)*{.meta}
+Quitting smoking, improving your diet, and getting more rest are powerful steps for both you and your baby. Every small change adds up. It’s never too late to start fresh.
 
-  <div class="finding orange">
-    <h4>🔴 Snoring + Higher Weight — <strong>~2.4× higher risk</strong></h4>
-    <div class="meta">Frequent snoring and higher body weight</div>
-    <p>If you often snore or wake up tired, it may be worth talking to your care team. Improving sleep and small lifestyle tweaks can make a big difference for your heart and blood pressure.</p>
-  </div>
+#### 🔴 Snoring + Higher Weight — **~2.4× higher risk** {.finding .orange}
+*Frequent snoring and higher body weight*{.meta}
+If you often snore or wake up tired, it may be worth talking to your care team. Improving sleep and small lifestyle tweaks can make a big difference for your heart and blood pressure.
 
 </div>
 
