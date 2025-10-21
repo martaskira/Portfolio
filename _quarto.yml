@@ -14,21 +14,21 @@ website:
         href: index.qmd
       - text: "Projects"  
         menu:
-        - text: "Pregnancy Risks"
-          href: /Porfolio/pregnancy-risks/
-        - text: "Vision Module"
-          href: /Portfolio/vision-module/
-        - text: "GIS"
-          href: /Portfolio/ArcGIS/
-        - text: "Design"
-          href: /Portfolio/Prototype/
-        - text: "Scientific Poster"
-          href: /Portfolio/scientific-poster/  
+          - text: "Pregnancy Risks"
+            href: pregnancy-risks/index.qmd
+          - text: "Vision Module"
+            href: vision-module/index.qmd
+          - text: "GIS"
+            href: ArcGIS/index.qmd     
+          - text: "Design"
+            href: Prototype/index.qmd  
+          - text: "Scientific Poster"
+            href: scientific-poster/index.qmd  
       - text: "Side Projects"
         menu:
-        - text: "Ancient Illustrations"
-          href: /Portfolio/naledi-drawings/
-
+          - text: "Ancient Illustrations"
+            href: naledi-drawings/index.qmd
+          
 format:
   html:
     title-prefix: ""
