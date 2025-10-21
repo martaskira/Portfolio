@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Portfolio"
+  site-url: https://martaskira.github.io/Portfolio/
   navbar:
     right:
       - about.qmd
@@ -15,20 +16,22 @@ website:
       - text: "Projects"  
         menu:
         - text: "Pregnancy Risks"
-          href: pregnancy-risks/index.qmd
+          href: /Porfolio/pregnancy-risks/
         - text: "Vision Module"
-          href: vision-module/index.qmd
+          href: /Portfolio/vision-module/
         - text: "GIS"
-          href: ArcGIS/index.qmd
+          href: /Portfolio/ArcGIS/
         - text: "Design"
-          href: Prototype/index.qmd
+          href: /Portfolio/Prototype/
         - text: "Scientific Poster"
-          href: scientific-poster/index.qmd  
+          href: /Portfolio/scientific-poster/  
       - text: "Side Projects"
         menu:
         - text: "Ancient Illustrations"
-          href: naledi-drawings/index.qmd
+          href: /Portfolio/naledi-drawings/
 
 format:
   html:
+    title-prefix: ""
+    pagetitle: "{{< meta title >}}"
     css: styles.css
