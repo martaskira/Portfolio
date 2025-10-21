@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Portfolio"
-  site-url: https://martaskira.github.io/Portfolio/
   navbar:
     right:
       - about.qmd
