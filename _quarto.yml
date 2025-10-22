@@ -12,22 +12,26 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Projects"  
+      - text: "Plain Summarys"  
         menu:
           - text: "Pregnancy Risks"
             href: pregnancy-risks/index.qmd
-          - text: "Vision Module"
-            href: vision-module/index.qmd
-          - text: "GIS"
-            href: ArcGIS/index.qmd     
-          - text: "Design"
-            href: Prototype/index.qmd  
+          - text: "Climbing Study"
+            href: finger-strength/index.qmd
           - text: "Scientific Poster"
-            href: scientific-poster/index.qmd  
+            href: scientific-poster/index.qmd 
+      - text: "E-Learning Modules"
+        menu:
+          - text: "Vision Module"
+            href: vision-module/index.qmd   
+          - text: "Cat Collar Design"
+            href: Prototype/index.qmd   
       - text: "Side Projects"
         menu:
           - text: "Ancient Illustrations"
             href: naledi-drawings/index.qmd
+          - text: "GIS"
+            href: ArcGIS/index.qmd  
           
 format:
   html:

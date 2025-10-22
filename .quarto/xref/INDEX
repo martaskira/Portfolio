@@ -37,5 +37,8 @@
   },
   "test.qmd": {
     "test.html": "333ac9b4"
+  },
+  "finger-strength/index.qmd": {
+    "index.html": "f0dd9d8a"
   }
 }

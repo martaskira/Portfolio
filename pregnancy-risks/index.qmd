@@ -22,7 +22,7 @@ The good news? Many of the risk factors can be spotted early and improved throug
 
 ## ❤️ What the Study Looked At
 
-Researchers from Mount Sinai studied more than 6,000 pregnant women to see how early-pregnancy habits—like how much they moved, slept, or smoked—related to blood pressure later on.
+Researchers from Mount Sinai studied more than 6,000 pregnant women to see how early-pregnancy habits, like how much they moved, slept, or smoked, related to blood pressure later on.
 
 They used a simple framework from the American Heart Association called **“Life’s Essential 8,”** which focuses on 8 things that keep your heart healthy:
 
@@ -41,19 +41,27 @@ Women tended to fall into four lifestyle groups early in pregnancy:
 <div class="findings-grid">
 
 #### 🟢 Healthy Habits — baseline risk {.finding .green}
-*Good diet, regular activity, no nicotine; normal BMI & BP*{.meta}
+
+- *Good diet, regular activity, no nicotine; normal BMI & BP*
+
 You’re already doing great! Staying active, eating balanced meals, and keeping your blood pressure healthy all support your heart and your baby’s growth.
 
 #### 🟡 Little Activity — no extra risk {.finding .yellow}
-*Normal BMI & BP, but very little exercise*{.meta}
+
+- *Normal BMI & BP, but very little exercise*
+
 Even light movement like walking or stretching can help with energy and circulation. Try finding small, gentle ways to move that feel good each day.
 
 #### 🟠 Unhealthy Habits — **~1.5× higher risk** {.finding .red}
-*Tobacco exposure, low-quality diet, low activity (even with normal weight)*{.meta}
+
+- *Tobacco exposure, low-quality diet, low activity (even with normal weight)*
+
 Quitting smoking, improving your diet, and getting more rest are powerful steps for both you and your baby. Every small change adds up. It’s never too late to start fresh.
 
 #### 🔴 Snoring + Higher Weight — **~2.4× higher risk** {.finding .orange}
-*Frequent snoring and higher body weight*{.meta}
+
+- *Frequent snoring and higher body weight*
+
 If you often snore or wake up tired, it may be worth talking to your care team. Improving sleep and small lifestyle tweaks can make a big difference for your heart and blood pressure.
 
 </div>
@@ -76,7 +84,7 @@ It surprised even the researchers: women who snored regularly, especially those 
 
 ## 🧘‍♀️ Lifestyle Makes a Big Difference
 
-Even for women with a normal weight, habits like smoking, low-quality diet, or being inactive increased risk. The study showed that everyday behaviors—not just medical history—play a powerful role in pregnancy health.
+Even for women with a normal weight, habits like smoking, low-quality diet, or being inactive increased risk. The study showed that everyday behaviors, not just medical history, play a powerful role in pregnancy health.
 
 **Simple ways to support a healthy pregnancy:**
 
@@ -138,7 +146,7 @@ Your heart health during pregnancy sets the stage for both your wellbeing and yo
 Listening to your body, getting support, and making small, kind changes can go a long way.
 
 :::{.highlight-box}
-“Pregnancy is a time of transformation — not just for your baby, but for your heart, too.” 💖
+“Pregnancy is a time of transformation, not just for your baby, but for your heart, too.” 💖
 :::
 
 ---

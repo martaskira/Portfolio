@@ -1,0 +1,74 @@
+---
+title: "Does Finger Strength Training mprove Bouldering Performance?"
+author: Marta Skira
+date: 2025-10-22
+categories: [Sports Medicine, Exercise Physiology, Plain-Language Summary]
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+A Plain-Language Summary by Marta Skira, BSc, Biomedical Communications
+
+---
+
+## Background
+
+Climbing performance depends on strength, endurance, and techniques, but among climbers, finger strength is often treated like the holy grail. Many boulderers dedicate time to fingerboard training to improve grip and power.
+
+A new study published in Frontiers in Physiology (2024) investigated whether a five-week program focused on **dynamic finger flexor strength training** could actually improve measurable performance in bouldering and climbing-specific tests.
+
+---
+
+## What Researchers Did 
+
+Researchers recruited advanced to elite boulderers and randomly divided them into two groups:
+
+- A training group, which performed dynamic finger flexor exercises for five weeks.
+
+- A control group, which continued their usual climbing routine.
+
+The participants were tested before and after the intervention using three key performance measures:
+
+1. Bouldering performance tests
+
+2. Isometric finger strength tests
+
+3. Rate of force development (how quickly climbers could apply grip force)
+
+All tests were standardized to reflect realistic climbing scenarios, such as gripping small holds for short durations.
+
+---
+
+## Key Findings
+
+Surprisingly, no significant differences were found between the training and control groups in any of the climbing-specific strength or performance outcomes.
+
+Both groups maintained their baseline performance, suggesting that short-term finger flexor training alone may not be enough to improve bouldering ability in already well-trained climbers.
+
+The authors note that performance in climbing is multi-factorial. It depends on coordination, footwork, psychological readiness, and route familiarity, not just raw finger strength.
+
+---
+
+## What It Means 
+
+For experienced climbers, simply adding five weeks of fingerboard workouts may not lead to immediate gains. Skill refinement, route strategy, and full-body conditioning remain just as important.
+
+:::{.highlight-box}
+In short: Strong fingers help, but climbing smarter still wins over climbing harder. 
+:::
+
+---
+
+## Why It Matters
+
+This study challenges a popular assumption in the climbing community: that finger strength equals performance. It highlights the importance of comprehensive training, consisting of balancing strength work with technique, mobility, and recovery.
+
+For recreational climbers, it also offers a reassuring message: progress isn't limited by how strong your grip is, but how well you use it.
+
+---
+
+### Reference
+
+Saeterbakken, A. H., et al. (2024). *Five Weeks of Dynamic Finger Flexor Strength Training on Bouldering Performance and Climbing-Specific Strength Tests.* Frontiers in Physiology, 15:1461820. [https://doi.org/10.3389/fphys.2024.1461820]
