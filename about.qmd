@@ -15,13 +15,13 @@ A Bit About Me 🌱
   <img src="profile.jpg" alt="Marta's Profile Picture" class="profile-pic" />
 </div>
 
-I’m Marta — a **science communicator and data storyteller** with a background in **Biology for Health Science** from the **University of Toronto**.  
+I’m Marta — a science communicator and data storyteller with a background in **Biology for Health Science** from the **University of Toronto**.  
 
-My work sits at the intersection of **data, medicine, and communication**, where I focus on turning complex topics into content that is **clear, accessible, and engaging** for diverse audiences.  
+My work sits at the intersection of data, medicine, and communication, where I focus on turning complex topics into content that is clear, accessible, and engaging for diverse audiences.  
 
-I’ve built projects ranging from **scientific posters on myocardial infarctions**, to **interactive data modules on vision impairments**, to **illustrations of hominin anatomy and ancient tools**.  
+I’ve built projects ranging from scientific posters on myocardial infarctions, to interactive data modules on vision impairments, to illustrations of hominin anatomy and ancient tools.  
 
-What ties all of these together is my passion for making knowledge approachable through **visuals, storytelling, and thoughtful design**.
+What ties all of these together is my passion for making knowledge approachable through visuals, storytelling, and thoughtful design.
 
 ---
 
@@ -38,26 +38,28 @@ What ties all of these together is my passion for making knowledge approachable 
 
 ## 📚 My Approach to Communication
 
-For me, science and data are not just about facts — they’re about **stories**.  
+For me, science and data are not just about facts, they’re about stories.  
 
 I love to:  
-- Translate **complex medical concepts** into visuals and explanations that make sense to non-specialists  
-- Use **design and storytelling** to highlight the human impact behind data and research  
-- Explore how communication can build **trust, understanding, and curiosity** in both medical and public audiences  
+
+- Translate complex medical concepts into visuals and explanations that make sense to non-specialists  
+- Use design and storytelling to highlight the human impact behind data and research  
+- Explore how communication can build trust, understanding, and curiosity in both medical and public audiences  
 
 ---
 
 ## 🌿 Outside of Work
 
 When I’m not building projects, you’ll probably find me:  
-- Out **birdwatching** or exploring city trails  
-- Sketching ideas for **illustrations or interactive explainers**  
+
+- Out birdwatching or exploring city trails  
+- Sketching ideas for illustrations or interactive explainers  
 - Reading about the ways science communication shapes healthcare, education, and everyday decisions  
 
 ---
 
 :::{.highlight-box}
-I’m always open to collaborations that combine **medicine, data, and design** — especially projects that make science and health information more accessible to everyone.
+I’m always open to collaborations that combine medicine, data, and design, especially projects that make science and health information more accessible to everyone.
 :::
 
 [📫 Let’s Chat](mailto:martaskira2@gmail.com){.button}

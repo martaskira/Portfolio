@@ -15,13 +15,13 @@ Medical & Scientific Communications | Evidence-Based Storytelling | Patient-Cent
 :::
 
 :::{.highlight-box}
-I translate complex science into clear, accurate, and useful content—for clinicians, patients, and product teams.
+I translate complex science into clear, accurate, and useful content, for clinicians, patients, and product teams.
 My work spans literature reviews, slide decks, abstracts/posters, patient education, e-learning modules, and data visualizations.
 :::
 
 <div class="button-row">
   <a href="vision-module/index.qmd" class="button">👁️ Vision Module</a>
-  <a href="ArcGIS/index.qmd" class="button">🗺️ GIS Projects</a>
+  <a href="scientific-poster/index.qmd" class="button">🔬 Scientific Poster</a>
   <a href="Prototype/index.qmd" class="button">🎨 Design & Storytelling</a>
 </div> 
 
@@ -45,7 +45,7 @@ My work spans literature reviews, slide decks, abstracts/posters, patient educat
 I’m always open to collaborating on projects that elevate scientific clarity and patient understanding.
 
 [GitHub](https://github.com/martaskira)  
-[LinkedIn](https://www.linkedin.com/in/martaskira)  
+[LinkedIn](https://www.linkedin.com/in/martaskira-0157061b4/)  
 📫 [Email me](mailto:your@email.com)
 
 ---
