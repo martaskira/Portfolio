@@ -11,11 +11,11 @@ format:
 
 # ❤️ Myocardial Infarctions & Depression
 
-This project highlights a **scientific poster** I developed during my undergraduate studies in Health Science at the University of Toronto. It explores how **acute myocardial infarction (heart attack)** outcomes are affected when patients also live with **depression**.  
+This project highlights a scientific poster I developed during my undergraduate studies in Health Science at the University of Toronto. It explores how **acute myocardial infarction (heart attack)** outcomes are affected when patients also live with depression.  
 
-This is an important question because depression isn’t just a mental health challenge — it also influences how patients are treated in emergency settings, the quality of care they receive, and ultimately, their survival rates.  
+This is an important question because depression isn’t just a mental health challenge, it also influences how patients are treated in emergency settings, the quality of care they receive, and ultimately, their survival rates.  
 
-The project was designed to **translate complex medical findings into accessible visuals and storytelling**, so that healthcare workers, patients, and the public could all understand the importance of recognizing depression as a critical factor in heart disease.
+The project was designed to translate complex medical findings into accessible visuals and storytelling, so that healthcare workers, patients, and the public could all understand the importance of recognizing depression as a critical factor in heart disease.
 
 ---
 
@@ -29,11 +29,14 @@ The project was designed to **translate complex medical findings into accessible
 
 ## 🔬 Background & Hypothesis
 
-A **myocardial infarction (MI)** is the medical term for a heart attack, caused by a blockage of blood flow to the heart muscle. This is already a life-threatening event — but when combined with **depression**, patients often face worse outcomes.  
+A **myocardial infarction (MI)** is the medical term for a heart attack, caused by a blockage of blood flow to the heart muscle. This is already a life-threatening event, but when combined with depression, patients often face worse outcomes.  
 
 Research shows that people with depression may:  
+
 - Experience heart attacks at a higher rate.  
-- Receive **lower triage scores** in emergency care (triage scores determine how quickly a patient is seen).  
+
+- Receive lower triage scores in emergency care (triage scores determine how quickly a patient is seen).  
+
 - Face higher risks of death following an MI.  
 
 **Hypothesis:**  
@@ -46,12 +49,16 @@ Patients with both heart attacks and depression are more likely to be given lowe
 The study reviewed data from **6,784 patients**, ranging in age from **25 to 105 years old**.  
 
 Patients were divided into groups based on their triage scores:  
+
 - **Scores 1–2** → High priority, immediate care needed  
+
 - **Scores 3–5** → Lower priority, less urgent treatment  
 
 Within this group:  
-- 680 patients also had **depression**  
-- Others had **asthma** or **chronic obstructive pulmonary disease (COPD)**  
+
+- 680 patients also had depression  
+
+- Others had asthma or chronic obstructive pulmonary disease (COPD)  
 
 This allowed researchers to compare how patients with different health backgrounds were triaged and treated during heart attacks.
 
@@ -60,27 +67,38 @@ This allowed researchers to compare how patients with different health backgroun
 ## 📊 Key Findings
 
 The results were clear:  
-- Patients with **depression + MI** were more likely to receive **lower-priority triage scores**.  
+
+- Patients with depression + MI were more likely to receive lower-priority triage scores.  
+
 - Ratios of low-priority scores:  
+  
   - **1.26** for depression (higher likelihood of lower care priority)  
+  
   - **0.88** for COPD  
+  
   - **1.13** for asthma  
 
-This meant that depressed patients were more often seen as “less urgent” — even though their condition was just as dangerous.  
+This meant that depressed patients were more often seen as “less urgent”, even though their condition was just as dangerous.  
 
 🔎 **Mortality Outcomes**  
 When looking at survival rates after a heart attack, depressed patients consistently had worse results:  
+
 - **30 days** → Higher risk of death  
+
 - **90 days** → Risk remained higher  
+
 - **1 year** → Long-term survival was significantly worse  
 
 ---
 
 ## 🧠 Why Does This Happen?
 
-The findings suggest **mis-triage** in emergency settings:  
+The findings suggest mis-triage in emergency settings:  
+
 - **Somatization assumption:** Staff may believe chest pain or shortness of breath comes from anxiety or stress, not a heart attack.  
+
 - **Symptom confusion:** Because depression is often linked to physical complaints (like fatigue or breathlessness), real cardiac symptoms may be underestimated.  
+
 - **Lack of awareness:** There isn’t enough training or emphasis on how depression directly increases heart risk.  
 
 This means some patients in crisis may not get urgent treatment simply because their mental health history influences how their symptoms are interpreted.
@@ -90,20 +108,26 @@ This means some patients in crisis may not get urgent treatment simply because t
 ## 🌍 Why It Matters
 
 This research demonstrates that:  
-- Mental health **directly impacts physical health outcomes**.  
-- Emergency staff need greater awareness of depression’s role in cardiovascular disease.  
-- Equal treatment must be ensured — depression should never mean delayed care.  
 
-By presenting this information in a **poster format**, I aimed to make the science both **clear and actionable** — useful for medical professionals, but also approachable for non-specialist audiences.
+- Mental health directly impacts physical health outcomes.  
+
+- Emergency staff need greater awareness of depression’s role in cardiovascular disease.  
+
+- Equal treatment must be ensured. Depression should never mean delayed care.  
+
+By presenting this information in a poster format, I aimed to make the science both clear and actionable, useful for medical professionals, but also approachable for non-specialist audiences.
 
 ---
 
 ## 🎯 Project Goals
 
-- Translate scientific data into **accessible communication tools**  
-- Show how **mental and physical health intersect** in life-threatening conditions  
-- Promote better awareness of the need for **equity in emergency care**  
-- Demonstrate how **visual medical communication** can drive real-world impact  
+- Translate scientific data into accessible communication tools  
+
+- Show how mental and physical health intersect in life-threatening conditions  
+
+- Promote better awareness of the need for equity in emergency care  
+
+- Demonstrate how visual medical communication can drive real-world impact  
 
 ---
 
